@@ -1,0 +1,725 @@
+STATISTICS
+  Problem name     : CHPED
+  Variables        : 300 (0 binary, 0 integer, 0 implicit integer, 300 continuous)
+  Constraints      : 0 initial, 416 maximal
+OBJECTIVE
+  Sense            : minimize
+VARIABLES
+  [continuous] <alpha(0,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(0,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(0,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(0,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(0)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(0)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(1,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(1,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(1,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(1,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(1)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(1)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(2,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(2,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(2,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(2,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(2)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(2)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(3,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(3,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(3,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(3,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(3)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(3)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(4,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(4,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(4,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(4,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(4)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(4)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(5,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(5,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(5,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(5,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(5)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(5)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(6,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(6,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(6,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(6,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(6)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(6)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(7,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(7,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(7,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(7,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(7)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(7)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(8,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(8,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(8,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(8,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(8)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(8)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(9,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(9,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(9,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(9,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(9)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(9)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(10,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(10,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(10,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(10,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(10)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(10)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(11,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(11,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(11,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(11,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(11)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(11)>: obj=0, original bounds=[0,20]
+  [continuous] <alpha(12,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(12,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(12,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(12,3)>: obj=0, original bounds=[0,1]
+  [continuous] <m_hs(12)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <d_pump(12)>: obj=0, original bounds=[0,20]
+  [continuous] <tau_ns(0,0)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,0)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,1)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,1)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,2)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,2)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,3)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,3)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,4)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,4)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,5)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,5)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,6)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,6)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,7)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,7)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,8)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,8)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,9)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,9)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,10)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,10)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,11)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,11)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(0,12)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(0,12)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(0,12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(0, 12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,0)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,0)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,1)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,1)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,2)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,2)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,3)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,3)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,4)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,4)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,5)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,5)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,6)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,6)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,7)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,7)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,8)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,8)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,9)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,9)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,10)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,10)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,11)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,11)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_ns(1,12)>: obj=0, original bounds=[75,120]
+  [continuous] <tau_nr(1,12)>: obj=0, original bounds=[45,80]
+  [continuous] <p_ns(1,12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <p_nr(1, 12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <m_hes(0,0)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,1)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,2)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,3)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,4)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,5)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,6)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,7)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,8)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,9)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,10)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,11)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <m_hes(0,12)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <ms_pipe(0,0)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,0)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,0)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,1)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,1)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,1)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,2)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,2)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,2)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,3)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,3)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,3)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,4)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,4)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,4)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,5)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,5)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,5)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,6)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,6)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,6)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,7)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,7)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,7)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,8)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,8)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,8)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,9)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,9)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,9)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,10)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,10)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,10)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,11)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,11)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,11)>: obj=0, original bounds=[0,+inf]
+  [continuous] <ms_pipe(0,12)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <mr_pipe(0,12)>: obj=0, original bounds=[0,805.449694207631]
+  [continuous] <tau_PS_out(0,12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_out(0,12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_in(0,12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_in(0,12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PS_no_out(0,12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <tau_PR_no_out(0,12)>: obj=0, original bounds=[0,+inf]
+  [continuous] <objvar>: obj=1, original bounds=[-inf,+inf]
+CONSTRAINTS
+  [linear] <initial_supply_inlet_temperature>: <tau_ns(0,0)>[C] == 75.3;
+  [linear] <alpha_sum_constraint(0)>: <alpha(0,0)>[C] +<alpha(0,1)>[C] +<alpha(0,2)>[C] +<alpha(0,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(0)>: 10*<alpha(0,0)>+70*<alpha(0,3)>-0.0041813*<m_hs(0)>*<tau_ns(0,0)>+0.0041813*<m_hs(0)>*<tau_nr(0,0)> == 0;
+  [linear] <temperature_ramping_constraint_L(0)>: <tau_ns(0,1)>[C] -<tau_ns(0,0)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(0)>: <tau_ns(0,1)>[C] -<tau_ns(0,0)>[C] >= -5;
+  [linear] <alpha_sum_constraint(1)>: <alpha(1,0)>[C] +<alpha(1,1)>[C] +<alpha(1,2)>[C] +<alpha(1,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(1)>: 10*<alpha(1,0)>+70*<alpha(1,3)>-0.0041813*<tau_ns(0,1)>*<m_hs(1)>+0.0041813*<tau_nr(0,1)>*<m_hs(1)> == 0;
+  [linear] <temperature_ramping_constraint_L(1)>: <tau_ns(0,2)>[C] -<tau_ns(0,1)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(1)>: <tau_ns(0,2)>[C] -<tau_ns(0,1)>[C] >= -5;
+  [linear] <alpha_sum_constraint(2)>: <alpha(2,0)>[C] +<alpha(2,1)>[C] +<alpha(2,2)>[C] +<alpha(2,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(2)>: 10*<alpha(2,0)>+70*<alpha(2,3)>-0.0041813*<tau_ns(0,2)>*<m_hs(2)>+0.0041813*<tau_nr(0,2)>*<m_hs(2)> == 0;
+  [linear] <temperature_ramping_constraint_L(2)>: <tau_ns(0,3)>[C] -<tau_ns(0,2)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(2)>: <tau_ns(0,3)>[C] -<tau_ns(0,2)>[C] >= -5;
+  [linear] <alpha_sum_constraint(3)>: <alpha(3,0)>[C] +<alpha(3,1)>[C] +<alpha(3,2)>[C] +<alpha(3,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(3)>: 10*<alpha(3,0)>+70*<alpha(3,3)>-0.0041813*<tau_ns(0,3)>*<m_hs(3)>+0.0041813*<tau_nr(0,3)>*<m_hs(3)> == 0;
+  [linear] <temperature_ramping_constraint_L(3)>: <tau_ns(0,4)>[C] -<tau_ns(0,3)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(3)>: <tau_ns(0,4)>[C] -<tau_ns(0,3)>[C] >= -5;
+  [linear] <alpha_sum_constraint(4)>: <alpha(4,0)>[C] +<alpha(4,1)>[C] +<alpha(4,2)>[C] +<alpha(4,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(4)>: 10*<alpha(4,0)>+70*<alpha(4,3)>-0.0041813*<tau_ns(0,4)>*<m_hs(4)>+0.0041813*<tau_nr(0,4)>*<m_hs(4)> == 0;
+  [linear] <temperature_ramping_constraint_L(4)>: <tau_ns(0,5)>[C] -<tau_ns(0,4)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(4)>: <tau_ns(0,5)>[C] -<tau_ns(0,4)>[C] >= -5;
+  [linear] <alpha_sum_constraint(5)>: <alpha(5,0)>[C] +<alpha(5,1)>[C] +<alpha(5,2)>[C] +<alpha(5,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(5)>: 10*<alpha(5,0)>+70*<alpha(5,3)>-0.0041813*<tau_ns(0,5)>*<m_hs(5)>+0.0041813*<tau_nr(0,5)>*<m_hs(5)> == 0;
+  [linear] <temperature_ramping_constraint_L(5)>: <tau_ns(0,6)>[C] -<tau_ns(0,5)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(5)>: <tau_ns(0,6)>[C] -<tau_ns(0,5)>[C] >= -5;
+  [linear] <alpha_sum_constraint(6)>: <alpha(6,0)>[C] +<alpha(6,1)>[C] +<alpha(6,2)>[C] +<alpha(6,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(6)>: 10*<alpha(6,0)>+70*<alpha(6,3)>-0.0041813*<tau_ns(0,6)>*<m_hs(6)>+0.0041813*<tau_nr(0,6)>*<m_hs(6)> == 0;
+  [linear] <temperature_ramping_constraint_L(6)>: <tau_ns(0,7)>[C] -<tau_ns(0,6)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(6)>: <tau_ns(0,7)>[C] -<tau_ns(0,6)>[C] >= -5;
+  [linear] <alpha_sum_constraint(7)>: <alpha(7,0)>[C] +<alpha(7,1)>[C] +<alpha(7,2)>[C] +<alpha(7,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(7)>: 10*<alpha(7,0)>+70*<alpha(7,3)>-0.0041813*<tau_ns(0,7)>*<m_hs(7)>+0.0041813*<tau_nr(0,7)>*<m_hs(7)> == 0;
+  [linear] <temperature_ramping_constraint_L(7)>: <tau_ns(0,8)>[C] -<tau_ns(0,7)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(7)>: <tau_ns(0,8)>[C] -<tau_ns(0,7)>[C] >= -5;
+  [linear] <alpha_sum_constraint(8)>: <alpha(8,0)>[C] +<alpha(8,1)>[C] +<alpha(8,2)>[C] +<alpha(8,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(8)>: 10*<alpha(8,0)>+70*<alpha(8,3)>-0.0041813*<tau_ns(0,8)>*<m_hs(8)>+0.0041813*<tau_nr(0,8)>*<m_hs(8)> == 0;
+  [linear] <temperature_ramping_constraint_L(8)>: <tau_ns(0,9)>[C] -<tau_ns(0,8)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(8)>: <tau_ns(0,9)>[C] -<tau_ns(0,8)>[C] >= -5;
+  [linear] <alpha_sum_constraint(9)>: <alpha(9,0)>[C] +<alpha(9,1)>[C] +<alpha(9,2)>[C] +<alpha(9,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(9)>: 10*<alpha(9,0)>+70*<alpha(9,3)>-0.0041813*<tau_ns(0,9)>*<m_hs(9)>+0.0041813*<tau_nr(0,9)>*<m_hs(9)> == 0;
+  [linear] <temperature_ramping_constraint_L(9)>: <tau_ns(0,10)>[C] -<tau_ns(0,9)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(9)>: <tau_ns(0,10)>[C] -<tau_ns(0,9)>[C] >= -5;
+  [linear] <alpha_sum_constraint(10)>: <alpha(10,0)>[C] +<alpha(10,1)>[C] +<alpha(10,2)>[C] +<alpha(10,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(10)>: 10*<alpha(10,0)>+70*<alpha(10,3)>-0.0041813*<m_hs(10)>*<tau_ns(0,10)>+0.0041813*<m_hs(10)>*<tau_nr(0,10)> == 0;
+  [linear] <temperature_ramping_constraint_L(10)>: <tau_ns(0,11)>[C] -<tau_ns(0,10)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(10)>: <tau_ns(0,11)>[C] -<tau_ns(0,10)>[C] >= -5;
+  [linear] <alpha_sum_constraint(11)>: <alpha(11,0)>[C] +<alpha(11,1)>[C] +<alpha(11,2)>[C] +<alpha(11,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(11)>: 10*<alpha(11,0)>+70*<alpha(11,3)>-0.0041813*<m_hs(11)>*<tau_ns(0,11)>+0.0041813*<m_hs(11)>*<tau_nr(0,11)> == 0;
+  [linear] <temperature_ramping_constraint_L(11)>: <tau_ns(0,12)>[C] -<tau_ns(0,11)>[C] <= 5;
+  [linear] <temperature_ramping_constraint_G(11)>: <tau_ns(0,12)>[C] -<tau_ns(0,11)>[C] >= -5;
+  [linear] <alpha_sum_constraint(12)>: <alpha(12,0)>[C] +<alpha(12,1)>[C] +<alpha(12,2)>[C] +<alpha(12,3)>[C] == 1;
+  [nonlinear] <heat_output_CHP_unit_constraint(12)>: 10*<alpha(12,0)>+70*<alpha(12,3)>-0.0041813*<m_hs(12)>*<tau_ns(0,12)>+0.0041813*<m_hs(12)>*<tau_nr(0,12)> == 0;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 0)>: 0.0041813*<tau_ns(1,0)>*<m_hes(0,0)>-0.0041813*<tau_nr(1,0)>*<m_hes(0,0)> >= 29.58;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 0)>: 0.0041813*<tau_ns(1,0)>*<m_hes(0,0)>-0.0041813*<tau_nr(1,0)>*<m_hes(0,0)> <= 30.58;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 1)>: 0.0041813*<tau_ns(1,1)>*<m_hes(0,1)>-0.0041813*<tau_nr(1,1)>*<m_hes(0,1)> >= 24.81;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 1)>: 0.0041813*<tau_ns(1,1)>*<m_hes(0,1)>-0.0041813*<tau_nr(1,1)>*<m_hes(0,1)> <= 25.81;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 2)>: 0.0041813*<tau_ns(1,2)>*<m_hes(0,2)>-0.0041813*<tau_nr(1,2)>*<m_hes(0,2)> >= 30.22;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 2)>: 0.0041813*<tau_ns(1,2)>*<m_hes(0,2)>-0.0041813*<tau_nr(1,2)>*<m_hes(0,2)> <= 31.22;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 3)>: 0.0041813*<tau_ns(1,3)>*<m_hes(0,3)>-0.0041813*<tau_nr(1,3)>*<m_hes(0,3)> >= 30.95;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 3)>: 0.0041813*<tau_ns(1,3)>*<m_hes(0,3)>-0.0041813*<tau_nr(1,3)>*<m_hes(0,3)> <= 31.95;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 4)>: 0.0041813*<tau_ns(1,4)>*<m_hes(0,4)>-0.0041813*<tau_nr(1,4)>*<m_hes(0,4)> >= 31.71;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 4)>: 0.0041813*<tau_ns(1,4)>*<m_hes(0,4)>-0.0041813*<tau_nr(1,4)>*<m_hes(0,4)> <= 32.71;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 5)>: 0.0041813*<tau_ns(1,5)>*<m_hes(0,5)>-0.0041813*<tau_nr(1,5)>*<m_hes(0,5)> >= 33.85;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 5)>: 0.0041813*<tau_ns(1,5)>*<m_hes(0,5)>-0.0041813*<tau_nr(1,5)>*<m_hes(0,5)> <= 34.85;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 6)>: 0.0041813*<tau_ns(1,6)>*<m_hes(0,6)>-0.0041813*<tau_nr(1,6)>*<m_hes(0,6)> >= 37.27;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 6)>: 0.0041813*<tau_ns(1,6)>*<m_hes(0,6)>-0.0041813*<tau_nr(1,6)>*<m_hes(0,6)> <= 38.27;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 7)>: 0.0041813*<tau_ns(1,7)>*<m_hes(0,7)>-0.0041813*<tau_nr(1,7)>*<m_hes(0,7)> >= 48.08;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 7)>: 0.0041813*<tau_ns(1,7)>*<m_hes(0,7)>-0.0041813*<tau_nr(1,7)>*<m_hes(0,7)> <= 49.08;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 8)>: 0.0041813*<tau_ns(1,8)>*<m_hes(0,8)>-0.0041813*<tau_nr(1,8)>*<m_hes(0,8)> >= 56.95;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 8)>: 0.0041813*<tau_ns(1,8)>*<m_hes(0,8)>-0.0041813*<tau_nr(1,8)>*<m_hes(0,8)> <= 57.95;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 9)>: 0.0041813*<tau_ns(1,9)>*<m_hes(0,9)>-0.0041813*<tau_nr(1,9)>*<m_hes(0,9)> >= 55.8;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 9)>: 0.0041813*<tau_ns(1,9)>*<m_hes(0,9)>-0.0041813*<tau_nr(1,9)>*<m_hes(0,9)> <= 56.8;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 10)>: 0.0041813*<tau_ns(1,10)>*<m_hes(0,10)>-0.0041813*<tau_nr(1,10)>*<m_hes(0,10)> >= 56.61;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 10)>: 0.0041813*<tau_ns(1,10)>*<m_hes(0,10)>-0.0041813*<tau_nr(1,10)>*<m_hes(0,10)> <= 57.61;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 11)>: 0.0041813*<tau_ns(1,11)>*<m_hes(0,11)>-0.0041813*<tau_nr(1,11)>*<m_hes(0,11)> >= 54.06;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 11)>: 0.0041813*<tau_ns(1,11)>*<m_hes(0,11)>-0.0041813*<tau_nr(1,11)>*<m_hes(0,11)> <= 55.06;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_G(0, 12)>: 0.0041813*<tau_ns(1,12)>*<m_hes(0,12)>-0.0041813*<tau_nr(1,12)>*<m_hes(0,12)> >= 51.61;
+  [nonlinear] <heat_exchangers_heat_loads_TDHS_L(0, 12)>: 0.0041813*<tau_ns(1,12)>*<m_hes(0,12)>-0.0041813*<tau_nr(1,12)>*<m_hes(0,12)> <= 52.61;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 0)>: <ms_pipe(0,0)>[C] -<m_hs(0)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 0)>: <ms_pipe(0,0)>[C] -<m_hs(0)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 0)>:  -<mr_pipe(0,0)>[C] +<m_hs(0)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 0)>:  -<mr_pipe(0,0)>[C] +<m_hs(0)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 0)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 0)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 0)>: <mr_pipe(0,0)>*<tau_PR_out(0,0)>-<tau_nr(0,0)>*<mr_pipe(0,0)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 0)>: <mr_pipe(0,0)>*<tau_PR_out(0,0)>-<tau_nr(0,0)>*<mr_pipe(0,0)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 0)>: <tau_PS_in(0,0)>[C] -<tau_ns(0,0)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 0)>: <tau_PS_in(0,0)>[C] -<tau_ns(0,0)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 1)>: <ms_pipe(0,1)>[C] -<m_hs(1)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 1)>: <ms_pipe(0,1)>[C] -<m_hs(1)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 1)>:  -<mr_pipe(0,1)>[C] +<m_hs(1)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 1)>:  -<mr_pipe(0,1)>[C] +<m_hs(1)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 1)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 1)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 1)>: <mr_pipe(0,1)>*<tau_PR_out(0,1)>-<tau_nr(0,1)>*<mr_pipe(0,1)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 1)>: <mr_pipe(0,1)>*<tau_PR_out(0,1)>-<tau_nr(0,1)>*<mr_pipe(0,1)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 1)>: <tau_PS_in(0,1)>[C] -<tau_ns(0,1)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 1)>: <tau_PS_in(0,1)>[C] -<tau_ns(0,1)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 2)>: <ms_pipe(0,2)>[C] -<m_hs(2)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 2)>: <ms_pipe(0,2)>[C] -<m_hs(2)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 2)>:  -<mr_pipe(0,2)>[C] +<m_hs(2)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 2)>:  -<mr_pipe(0,2)>[C] +<m_hs(2)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 2)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 2)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 2)>: <mr_pipe(0,2)>*<tau_PR_out(0,2)>-<tau_nr(0,2)>*<mr_pipe(0,2)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 2)>: <mr_pipe(0,2)>*<tau_PR_out(0,2)>-<tau_nr(0,2)>*<mr_pipe(0,2)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 2)>: <tau_PS_in(0,2)>[C] -<tau_ns(0,2)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 2)>: <tau_PS_in(0,2)>[C] -<tau_ns(0,2)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 3)>: <ms_pipe(0,3)>[C] -<m_hs(3)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 3)>: <ms_pipe(0,3)>[C] -<m_hs(3)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 3)>:  -<mr_pipe(0,3)>[C] +<m_hs(3)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 3)>:  -<mr_pipe(0,3)>[C] +<m_hs(3)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 3)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 3)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 3)>: <mr_pipe(0,3)>*<tau_PR_out(0,3)>-<tau_nr(0,3)>*<mr_pipe(0,3)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 3)>: <mr_pipe(0,3)>*<tau_PR_out(0,3)>-<tau_nr(0,3)>*<mr_pipe(0,3)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 3)>: <tau_PS_in(0,3)>[C] -<tau_ns(0,3)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 3)>: <tau_PS_in(0,3)>[C] -<tau_ns(0,3)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 4)>: <ms_pipe(0,4)>[C] -<m_hs(4)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 4)>: <ms_pipe(0,4)>[C] -<m_hs(4)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 4)>:  -<mr_pipe(0,4)>[C] +<m_hs(4)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 4)>:  -<mr_pipe(0,4)>[C] +<m_hs(4)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 4)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 4)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 4)>: <mr_pipe(0,4)>*<tau_PR_out(0,4)>-<tau_nr(0,4)>*<mr_pipe(0,4)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 4)>: <mr_pipe(0,4)>*<tau_PR_out(0,4)>-<tau_nr(0,4)>*<mr_pipe(0,4)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 4)>: <tau_PS_in(0,4)>[C] -<tau_ns(0,4)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 4)>: <tau_PS_in(0,4)>[C] -<tau_ns(0,4)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 5)>: <ms_pipe(0,5)>[C] -<m_hs(5)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 5)>: <ms_pipe(0,5)>[C] -<m_hs(5)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 5)>:  -<mr_pipe(0,5)>[C] +<m_hs(5)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 5)>:  -<mr_pipe(0,5)>[C] +<m_hs(5)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 5)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 5)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 5)>: <mr_pipe(0,5)>*<tau_PR_out(0,5)>-<tau_nr(0,5)>*<mr_pipe(0,5)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 5)>: <mr_pipe(0,5)>*<tau_PR_out(0,5)>-<tau_nr(0,5)>*<mr_pipe(0,5)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 5)>: <tau_PS_in(0,5)>[C] -<tau_ns(0,5)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 5)>: <tau_PS_in(0,5)>[C] -<tau_ns(0,5)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 6)>: <ms_pipe(0,6)>[C] -<m_hs(6)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 6)>: <ms_pipe(0,6)>[C] -<m_hs(6)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 6)>:  -<mr_pipe(0,6)>[C] +<m_hs(6)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 6)>:  -<mr_pipe(0,6)>[C] +<m_hs(6)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 6)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 6)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 6)>: <mr_pipe(0,6)>*<tau_PR_out(0,6)>-<tau_nr(0,6)>*<mr_pipe(0,6)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 6)>: <mr_pipe(0,6)>*<tau_PR_out(0,6)>-<tau_nr(0,6)>*<mr_pipe(0,6)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 6)>: <tau_PS_in(0,6)>[C] -<tau_ns(0,6)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 6)>: <tau_PS_in(0,6)>[C] -<tau_ns(0,6)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 7)>: <ms_pipe(0,7)>[C] -<m_hs(7)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 7)>: <ms_pipe(0,7)>[C] -<m_hs(7)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 7)>:  -<mr_pipe(0,7)>[C] +<m_hs(7)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 7)>:  -<mr_pipe(0,7)>[C] +<m_hs(7)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 7)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 7)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 7)>: <mr_pipe(0,7)>*<tau_PR_out(0,7)>-<tau_nr(0,7)>*<mr_pipe(0,7)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 7)>: <mr_pipe(0,7)>*<tau_PR_out(0,7)>-<tau_nr(0,7)>*<mr_pipe(0,7)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 7)>: <tau_PS_in(0,7)>[C] -<tau_ns(0,7)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 7)>: <tau_PS_in(0,7)>[C] -<tau_ns(0,7)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 8)>: <ms_pipe(0,8)>[C] -<m_hs(8)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 8)>: <ms_pipe(0,8)>[C] -<m_hs(8)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 8)>:  -<mr_pipe(0,8)>[C] +<m_hs(8)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 8)>:  -<mr_pipe(0,8)>[C] +<m_hs(8)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 8)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 8)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 8)>: <mr_pipe(0,8)>*<tau_PR_out(0,8)>-<tau_nr(0,8)>*<mr_pipe(0,8)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 8)>: <mr_pipe(0,8)>*<tau_PR_out(0,8)>-<tau_nr(0,8)>*<mr_pipe(0,8)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 8)>: <tau_PS_in(0,8)>[C] -<tau_ns(0,8)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 8)>: <tau_PS_in(0,8)>[C] -<tau_ns(0,8)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 9)>: <ms_pipe(0,9)>[C] -<m_hs(9)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 9)>: <ms_pipe(0,9)>[C] -<m_hs(9)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 9)>:  -<mr_pipe(0,9)>[C] +<m_hs(9)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 9)>:  -<mr_pipe(0,9)>[C] +<m_hs(9)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 9)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 9)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 9)>: <mr_pipe(0,9)>*<tau_PR_out(0,9)>-<tau_nr(0,9)>*<mr_pipe(0,9)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 9)>: <mr_pipe(0,9)>*<tau_PR_out(0,9)>-<tau_nr(0,9)>*<mr_pipe(0,9)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 9)>: <tau_PS_in(0,9)>[C] -<tau_ns(0,9)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 9)>: <tau_PS_in(0,9)>[C] -<tau_ns(0,9)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 10)>: <ms_pipe(0,10)>[C] -<m_hs(10)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 10)>: <ms_pipe(0,10)>[C] -<m_hs(10)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 10)>:  -<mr_pipe(0,10)>[C] +<m_hs(10)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 10)>:  -<mr_pipe(0,10)>[C] +<m_hs(10)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 10)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 10)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 10)>: <mr_pipe(0,10)>*<tau_PR_out(0,10)>-<tau_nr(0,10)>*<mr_pipe(0,10)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 10)>: <mr_pipe(0,10)>*<tau_PR_out(0,10)>-<tau_nr(0,10)>*<mr_pipe(0,10)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 10)>: <tau_PS_in(0,10)>[C] -<tau_ns(0,10)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 10)>: <tau_PS_in(0,10)>[C] -<tau_ns(0,10)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 11)>: <ms_pipe(0,11)>[C] -<m_hs(11)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 11)>: <ms_pipe(0,11)>[C] -<m_hs(11)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 11)>:  -<mr_pipe(0,11)>[C] +<m_hs(11)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 11)>:  -<mr_pipe(0,11)>[C] +<m_hs(11)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 11)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 11)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 11)>: <mr_pipe(0,11)>*<tau_PR_out(0,11)>-<tau_nr(0,11)>*<mr_pipe(0,11)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 11)>: <mr_pipe(0,11)>*<tau_PR_out(0,11)>-<tau_nr(0,11)>*<mr_pipe(0,11)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 11)>: <tau_PS_in(0,11)>[C] -<tau_ns(0,11)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 11)>: <tau_PS_in(0,11)>[C] -<tau_ns(0,11)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(0, 12)>: <ms_pipe(0,12)>[C] -<m_hs(12)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(0, 12)>: <ms_pipe(0,12)>[C] -<m_hs(12)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(0, 12)>:  -<mr_pipe(0,12)>[C] +<m_hs(12)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(0, 12)>:  -<mr_pipe(0,12)>[C] +<m_hs(12)>[C] >= 0;
+  [linear] <temperature_mixing_outlet_supply_network_L(0, 12)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_supply_network_G(0, 12)>: 0 >= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_L(0, 12)>: <mr_pipe(0,12)>*<tau_PR_out(0,12)>-<tau_nr(0,12)>*<mr_pipe(0,12)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_return_network_G(0, 12)>: <mr_pipe(0,12)>*<tau_PR_out(0,12)>-<tau_nr(0,12)>*<mr_pipe(0,12)> >= 0;
+  [linear] <L temperature_mixing_inlet_supply_network(0, 12)>: <tau_PS_in(0,12)>[C] -<tau_ns(0,12)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_supply_network(0, 12)>: <tau_PS_in(0,12)>[C] -<tau_ns(0,12)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 0)>:  -<ms_pipe(0,0)>[C] +<m_hes(0,0)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 0)>:  -<ms_pipe(0,0)>[C] +<m_hes(0,0)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 0)>: <mr_pipe(0,0)>[C] -<m_hes(0,0)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 0)>: <mr_pipe(0,0)>[C] -<m_hes(0,0)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 0)>: <ms_pipe(0,0)>*<tau_PS_out(0,0)>-<tau_ns(1,0)>*<ms_pipe(0,0)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 0)>: <ms_pipe(0,0)>*<tau_PS_out(0,0)>-<tau_ns(1,0)>*<ms_pipe(0,0)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 0)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 0)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 0)>: <tau_PR_in(0,0)>[C] -<tau_nr(1,0)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 0)>: <tau_PR_in(0,0)>[C] -<tau_nr(1,0)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 1)>:  -<ms_pipe(0,1)>[C] +<m_hes(0,1)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 1)>:  -<ms_pipe(0,1)>[C] +<m_hes(0,1)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 1)>: <mr_pipe(0,1)>[C] -<m_hes(0,1)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 1)>: <mr_pipe(0,1)>[C] -<m_hes(0,1)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 1)>: <ms_pipe(0,1)>*<tau_PS_out(0,1)>-<tau_ns(1,1)>*<ms_pipe(0,1)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 1)>: <ms_pipe(0,1)>*<tau_PS_out(0,1)>-<tau_ns(1,1)>*<ms_pipe(0,1)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 1)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 1)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 1)>: <tau_PR_in(0,1)>[C] -<tau_nr(1,1)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 1)>: <tau_PR_in(0,1)>[C] -<tau_nr(1,1)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 2)>:  -<ms_pipe(0,2)>[C] +<m_hes(0,2)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 2)>:  -<ms_pipe(0,2)>[C] +<m_hes(0,2)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 2)>: <mr_pipe(0,2)>[C] -<m_hes(0,2)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 2)>: <mr_pipe(0,2)>[C] -<m_hes(0,2)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 2)>: <ms_pipe(0,2)>*<tau_PS_out(0,2)>-<tau_ns(1,2)>*<ms_pipe(0,2)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 2)>: <ms_pipe(0,2)>*<tau_PS_out(0,2)>-<tau_ns(1,2)>*<ms_pipe(0,2)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 2)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 2)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 2)>: <tau_PR_in(0,2)>[C] -<tau_nr(1,2)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 2)>: <tau_PR_in(0,2)>[C] -<tau_nr(1,2)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 3)>:  -<ms_pipe(0,3)>[C] +<m_hes(0,3)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 3)>:  -<ms_pipe(0,3)>[C] +<m_hes(0,3)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 3)>: <mr_pipe(0,3)>[C] -<m_hes(0,3)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 3)>: <mr_pipe(0,3)>[C] -<m_hes(0,3)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 3)>: <ms_pipe(0,3)>*<tau_PS_out(0,3)>-<tau_ns(1,3)>*<ms_pipe(0,3)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 3)>: <ms_pipe(0,3)>*<tau_PS_out(0,3)>-<tau_ns(1,3)>*<ms_pipe(0,3)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 3)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 3)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 3)>: <tau_PR_in(0,3)>[C] -<tau_nr(1,3)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 3)>: <tau_PR_in(0,3)>[C] -<tau_nr(1,3)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 4)>:  -<ms_pipe(0,4)>[C] +<m_hes(0,4)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 4)>:  -<ms_pipe(0,4)>[C] +<m_hes(0,4)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 4)>: <mr_pipe(0,4)>[C] -<m_hes(0,4)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 4)>: <mr_pipe(0,4)>[C] -<m_hes(0,4)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 4)>: <ms_pipe(0,4)>*<tau_PS_out(0,4)>-<tau_ns(1,4)>*<ms_pipe(0,4)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 4)>: <ms_pipe(0,4)>*<tau_PS_out(0,4)>-<tau_ns(1,4)>*<ms_pipe(0,4)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 4)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 4)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 4)>: <tau_PR_in(0,4)>[C] -<tau_nr(1,4)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 4)>: <tau_PR_in(0,4)>[C] -<tau_nr(1,4)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 5)>:  -<ms_pipe(0,5)>[C] +<m_hes(0,5)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 5)>:  -<ms_pipe(0,5)>[C] +<m_hes(0,5)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 5)>: <mr_pipe(0,5)>[C] -<m_hes(0,5)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 5)>: <mr_pipe(0,5)>[C] -<m_hes(0,5)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 5)>: <ms_pipe(0,5)>*<tau_PS_out(0,5)>-<tau_ns(1,5)>*<ms_pipe(0,5)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 5)>: <ms_pipe(0,5)>*<tau_PS_out(0,5)>-<tau_ns(1,5)>*<ms_pipe(0,5)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 5)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 5)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 5)>: <tau_PR_in(0,5)>[C] -<tau_nr(1,5)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 5)>: <tau_PR_in(0,5)>[C] -<tau_nr(1,5)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 6)>:  -<ms_pipe(0,6)>[C] +<m_hes(0,6)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 6)>:  -<ms_pipe(0,6)>[C] +<m_hes(0,6)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 6)>: <mr_pipe(0,6)>[C] -<m_hes(0,6)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 6)>: <mr_pipe(0,6)>[C] -<m_hes(0,6)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 6)>: <ms_pipe(0,6)>*<tau_PS_out(0,6)>-<tau_ns(1,6)>*<ms_pipe(0,6)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 6)>: <ms_pipe(0,6)>*<tau_PS_out(0,6)>-<tau_ns(1,6)>*<ms_pipe(0,6)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 6)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 6)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 6)>: <tau_PR_in(0,6)>[C] -<tau_nr(1,6)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 6)>: <tau_PR_in(0,6)>[C] -<tau_nr(1,6)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 7)>:  -<ms_pipe(0,7)>[C] +<m_hes(0,7)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 7)>:  -<ms_pipe(0,7)>[C] +<m_hes(0,7)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 7)>: <mr_pipe(0,7)>[C] -<m_hes(0,7)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 7)>: <mr_pipe(0,7)>[C] -<m_hes(0,7)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 7)>: <ms_pipe(0,7)>*<tau_PS_out(0,7)>-<tau_ns(1,7)>*<ms_pipe(0,7)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 7)>: <ms_pipe(0,7)>*<tau_PS_out(0,7)>-<tau_ns(1,7)>*<ms_pipe(0,7)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 7)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 7)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 7)>: <tau_PR_in(0,7)>[C] -<tau_nr(1,7)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 7)>: <tau_PR_in(0,7)>[C] -<tau_nr(1,7)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 8)>:  -<ms_pipe(0,8)>[C] +<m_hes(0,8)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 8)>:  -<ms_pipe(0,8)>[C] +<m_hes(0,8)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 8)>: <mr_pipe(0,8)>[C] -<m_hes(0,8)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 8)>: <mr_pipe(0,8)>[C] -<m_hes(0,8)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 8)>: <ms_pipe(0,8)>*<tau_PS_out(0,8)>-<tau_ns(1,8)>*<ms_pipe(0,8)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 8)>: <ms_pipe(0,8)>*<tau_PS_out(0,8)>-<tau_ns(1,8)>*<ms_pipe(0,8)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 8)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 8)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 8)>: <tau_PR_in(0,8)>[C] -<tau_nr(1,8)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 8)>: <tau_PR_in(0,8)>[C] -<tau_nr(1,8)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 9)>:  -<ms_pipe(0,9)>[C] +<m_hes(0,9)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 9)>:  -<ms_pipe(0,9)>[C] +<m_hes(0,9)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 9)>: <mr_pipe(0,9)>[C] -<m_hes(0,9)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 9)>: <mr_pipe(0,9)>[C] -<m_hes(0,9)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 9)>: <ms_pipe(0,9)>*<tau_PS_out(0,9)>-<tau_ns(1,9)>*<ms_pipe(0,9)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 9)>: <ms_pipe(0,9)>*<tau_PS_out(0,9)>-<tau_ns(1,9)>*<ms_pipe(0,9)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 9)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 9)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 9)>: <tau_PR_in(0,9)>[C] -<tau_nr(1,9)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 9)>: <tau_PR_in(0,9)>[C] -<tau_nr(1,9)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 10)>:  -<ms_pipe(0,10)>[C] +<m_hes(0,10)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 10)>:  -<ms_pipe(0,10)>[C] +<m_hes(0,10)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 10)>: <mr_pipe(0,10)>[C] -<m_hes(0,10)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 10)>: <mr_pipe(0,10)>[C] -<m_hes(0,10)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 10)>: <ms_pipe(0,10)>*<tau_PS_out(0,10)>-<tau_ns(1,10)>*<ms_pipe(0,10)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 10)>: <ms_pipe(0,10)>*<tau_PS_out(0,10)>-<tau_ns(1,10)>*<ms_pipe(0,10)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 10)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 10)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 10)>: <tau_PR_in(0,10)>[C] -<tau_nr(1,10)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 10)>: <tau_PR_in(0,10)>[C] -<tau_nr(1,10)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 11)>:  -<ms_pipe(0,11)>[C] +<m_hes(0,11)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 11)>:  -<ms_pipe(0,11)>[C] +<m_hes(0,11)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 11)>: <mr_pipe(0,11)>[C] -<m_hes(0,11)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 11)>: <mr_pipe(0,11)>[C] -<m_hes(0,11)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 11)>: <ms_pipe(0,11)>*<tau_PS_out(0,11)>-<tau_ns(1,11)>*<ms_pipe(0,11)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 11)>: <ms_pipe(0,11)>*<tau_PS_out(0,11)>-<tau_ns(1,11)>*<ms_pipe(0,11)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 11)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 11)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 11)>: <tau_PR_in(0,11)>[C] -<tau_nr(1,11)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 11)>: <tau_PR_in(0,11)>[C] -<tau_nr(1,11)>[C] >= 0;
+  [linear] <continuity_of_supply_network_mass_flow_L(1, 12)>:  -<ms_pipe(0,12)>[C] +<m_hes(0,12)>[C] <= 0;
+  [linear] <continuity_of_supply_network_mass_flow_G(1, 12)>:  -<ms_pipe(0,12)>[C] +<m_hes(0,12)>[C] >= 0;
+  [linear] <continuity_of_return_network_mass_flow_L(1, 12)>: <mr_pipe(0,12)>[C] -<m_hes(0,12)>[C] <= 0;
+  [linear] <continuity_of_return_network_mass_flow_G(1, 12)>: <mr_pipe(0,12)>[C] -<m_hes(0,12)>[C] >= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_L(1, 12)>: <ms_pipe(0,12)>*<tau_PS_out(0,12)>-<tau_ns(1,12)>*<ms_pipe(0,12)> <= 0;
+  [nonlinear] <temperature_mixing_outlet_supply_network_G(1, 12)>: <ms_pipe(0,12)>*<tau_PS_out(0,12)>-<tau_ns(1,12)>*<ms_pipe(0,12)> >= 0;
+  [linear] <temperature_mixing_outlet_return_network_L(1, 12)>: 0 <= 0;
+  [linear] <temperature_mixing_outlet_return_network_G(1, 12)>: 0 >= 0;
+  [linear] <L temperature_mixing_inlet_return_network(1, 12)>: <tau_PR_in(0,12)>[C] -<tau_nr(1,12)>[C] <= 0;
+  [linear] <G temperature_mixing_inlet_return_network(1, 12)>: <tau_PR_in(0,12)>[C] -<tau_nr(1,12)>[C] >= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 0)>: <tau_PS_no_out(0,0)>+(<tau_PS_in(0,0)>*0+<ms_pipe(0,0)>*<tau_PS_in(0,0)>*3600)*((<ms_pipe(0,0)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 0)>: <tau_PS_no_out(0,0)>+(<tau_PS_in(0,0)>*0+<ms_pipe(0,0)>*<tau_PS_in(0,0)>*3600)*((<ms_pipe(0,0)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 0)>: <tau_PR_no_out(0,0)>+(<tau_PR_in(0,0)>*0+<ms_pipe(0,0)>*<tau_PR_in(0,0)>*3600)*((<ms_pipe(0,0)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 0)>: <tau_PR_no_out(0,0)>+(<tau_PR_in(0,0)>*0+<ms_pipe(0,0)>*<tau_PR_in(0,0)>*3600)*((<ms_pipe(0,0)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 0)>: <tau_PS_out(0,0)>+(<tau_PS_no_out(0,0)>+(-10))*exp((((<ms_pipe(0,0)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 0)>: <tau_PR_out(0,0)>+(<tau_PR_no_out(0,0)>+(-10))*exp((((<mr_pipe(0,0)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 1)>: <tau_PS_no_out(0,1)>+(<tau_PS_in(0,0)>*0+<tau_PS_in(0,0)>*<ms_pipe(0,1)>*3600)*((<ms_pipe(0,1)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 1)>: <tau_PS_no_out(0,1)>+(<tau_PS_in(0,0)>*0+<tau_PS_in(0,0)>*<ms_pipe(0,1)>*3600)*((<ms_pipe(0,1)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 1)>: <tau_PR_no_out(0,1)>+(<tau_PR_in(0,0)>*0+<tau_PR_in(0,0)>*<ms_pipe(0,1)>*3600)*((<ms_pipe(0,1)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 1)>: <tau_PR_no_out(0,1)>+(<tau_PR_in(0,0)>*0+<tau_PR_in(0,0)>*<ms_pipe(0,1)>*3600)*((<ms_pipe(0,1)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 1)>: <tau_PS_out(0,1)>+(<tau_PS_no_out(0,1)>+(-10))*exp((((<ms_pipe(0,1)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 1)>: <tau_PR_out(0,1)>+(<tau_PR_no_out(0,1)>+(-10))*exp((((<mr_pipe(0,1)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 2)>: <tau_PS_no_out(0,2)>+(<tau_PS_in(0,0)>*0+<tau_PS_in(0,0)>*<ms_pipe(0,2)>*3600)*((<ms_pipe(0,2)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 2)>: <tau_PS_no_out(0,2)>+(<tau_PS_in(0,0)>*0+<tau_PS_in(0,0)>*<ms_pipe(0,2)>*3600)*((<ms_pipe(0,2)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 2)>: <tau_PR_no_out(0,2)>+(<tau_PR_in(0,0)>*0+<tau_PR_in(0,0)>*<ms_pipe(0,2)>*3600)*((<ms_pipe(0,2)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 2)>: <tau_PR_no_out(0,2)>+(<tau_PR_in(0,0)>*0+<tau_PR_in(0,0)>*<ms_pipe(0,2)>*3600)*((<ms_pipe(0,2)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 2)>: <tau_PS_out(0,2)>+(<tau_PS_no_out(0,2)>+(-10))*exp((((<ms_pipe(0,2)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 2)>: <tau_PR_out(0,2)>+(<tau_PR_no_out(0,2)>+(-10))*exp((((<mr_pipe(0,2)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 3)>: <tau_PS_no_out(0,3)>+(<tau_PS_in(0,2)>*222109+<ms_pipe(0,1)>*<tau_PS_in(0,1)>*3600+<tau_PS_in(0,0)>*<ms_pipe(0,3)>*3600+<tau_PS_in(0,0)>*(-571880))*((<ms_pipe(0,3)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 3)>: <tau_PS_no_out(0,3)>+(<tau_PS_in(0,2)>*222109+<ms_pipe(0,1)>*<tau_PS_in(0,1)>*3600+<tau_PS_in(0,0)>*<ms_pipe(0,3)>*3600+<tau_PS_in(0,0)>*(-571880))*((<ms_pipe(0,3)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 3)>: <tau_PR_no_out(0,3)>+(<tau_PR_in(0,2)>*222109+<ms_pipe(0,1)>*<tau_PR_in(0,1)>*3600+<tau_PR_in(0,0)>*<ms_pipe(0,3)>*3600+<tau_PR_in(0,0)>*(-571880))*((<ms_pipe(0,3)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 3)>: <tau_PR_no_out(0,3)>+(<tau_PR_in(0,2)>*222109+<ms_pipe(0,1)>*<tau_PR_in(0,1)>*3600+<tau_PR_in(0,0)>*<ms_pipe(0,3)>*3600+<tau_PR_in(0,0)>*(-571880))*((<ms_pipe(0,3)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 3)>: <tau_PS_out(0,3)>+(<tau_PS_no_out(0,3)>+(-10))*exp((((<ms_pipe(0,3)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 3)>: <tau_PR_out(0,3)>+(<tau_PR_no_out(0,3)>+(-10))*exp((((<mr_pipe(0,3)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 4)>: <tau_PS_no_out(0,4)>+(<tau_PS_in(0,3)>*510473+<tau_PS_in(0,2)>*<ms_pipe(0,4)>*3600+<tau_PS_in(0,2)>*(-510473))*((<ms_pipe(0,4)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 4)>: <tau_PS_no_out(0,4)>+(<tau_PS_in(0,3)>*510473+<tau_PS_in(0,2)>*<ms_pipe(0,4)>*3600+<tau_PS_in(0,2)>*(-510473))*((<ms_pipe(0,4)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 4)>: <tau_PR_no_out(0,4)>+(<tau_PR_in(0,3)>*510473+<tau_PR_in(0,2)>*<ms_pipe(0,4)>*3600+<tau_PR_in(0,2)>*(-510473))*((<ms_pipe(0,4)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 4)>: <tau_PR_no_out(0,4)>+(<tau_PR_in(0,3)>*510473+<tau_PR_in(0,2)>*<ms_pipe(0,4)>*3600+<tau_PR_in(0,2)>*(-510473))*((<ms_pipe(0,4)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 4)>: <tau_PS_out(0,4)>+(<tau_PS_no_out(0,4)>+(-10))*exp((((<ms_pipe(0,4)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 4)>: <tau_PR_out(0,4)>+(<tau_PR_no_out(0,4)>+(-10))*exp((((<mr_pipe(0,4)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 5)>: <tau_PS_no_out(0,5)>+(<tau_PS_in(0,4)>*334691+<tau_PS_in(0,3)>*<ms_pipe(0,5)>*3600+<tau_PS_in(0,3)>*(-334691))*((<ms_pipe(0,5)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 5)>: <tau_PS_no_out(0,5)>+(<tau_PS_in(0,4)>*334691+<tau_PS_in(0,3)>*<ms_pipe(0,5)>*3600+<tau_PS_in(0,3)>*(-334691))*((<ms_pipe(0,5)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 5)>: <tau_PR_no_out(0,5)>+(<tau_PR_in(0,4)>*334691+<tau_PR_in(0,3)>*<ms_pipe(0,5)>*3600+<tau_PR_in(0,3)>*(-334691))*((<ms_pipe(0,5)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 5)>: <tau_PR_no_out(0,5)>+(<tau_PR_in(0,4)>*334691+<tau_PR_in(0,3)>*<ms_pipe(0,5)>*3600+<tau_PR_in(0,3)>*(-334691))*((<ms_pipe(0,5)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 5)>: <tau_PS_out(0,5)>+(<tau_PS_no_out(0,5)>+(-10))*exp((((<ms_pipe(0,5)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 5)>: <tau_PR_out(0,5)>+(<tau_PR_no_out(0,5)>+(-10))*exp((((<mr_pipe(0,5)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 6)>: <tau_PS_no_out(0,6)>+(<tau_PS_in(0,5)>*203982+<tau_PS_in(0,4)>*<ms_pipe(0,6)>*3600+<tau_PS_in(0,4)>*(-203982))*((<ms_pipe(0,6)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 6)>: <tau_PS_no_out(0,6)>+(<tau_PS_in(0,5)>*203982+<tau_PS_in(0,4)>*<ms_pipe(0,6)>*3600+<tau_PS_in(0,4)>*(-203982))*((<ms_pipe(0,6)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 6)>: <tau_PR_no_out(0,6)>+(<tau_PR_in(0,5)>*203982+<tau_PR_in(0,4)>*<ms_pipe(0,6)>*3600+<tau_PR_in(0,4)>*(-203982))*((<ms_pipe(0,6)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 6)>: <tau_PR_no_out(0,6)>+(<tau_PR_in(0,5)>*203982+<tau_PR_in(0,4)>*<ms_pipe(0,6)>*3600+<tau_PR_in(0,4)>*(-203982))*((<ms_pipe(0,6)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 6)>: <tau_PS_out(0,6)>+(<tau_PS_no_out(0,6)>+(-10))*exp((((<ms_pipe(0,6)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 6)>: <tau_PR_out(0,6)>+(<tau_PR_no_out(0,6)>+(-10))*exp((((<mr_pipe(0,6)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 7)>: <tau_PS_no_out(0,7)>+(<tau_PS_in(0,6)>*134264+<tau_PS_in(0,5)>*<ms_pipe(0,7)>*3600+<tau_PS_in(0,5)>*(-134264))*((<ms_pipe(0,7)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 7)>: <tau_PS_no_out(0,7)>+(<tau_PS_in(0,6)>*134264+<tau_PS_in(0,5)>*<ms_pipe(0,7)>*3600+<tau_PS_in(0,5)>*(-134264))*((<ms_pipe(0,7)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 7)>: <tau_PR_no_out(0,7)>+(<tau_PR_in(0,6)>*134264+<tau_PR_in(0,5)>*<ms_pipe(0,7)>*3600+<tau_PR_in(0,5)>*(-134264))*((<ms_pipe(0,7)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 7)>: <tau_PR_no_out(0,7)>+(<tau_PR_in(0,6)>*134264+<tau_PR_in(0,5)>*<ms_pipe(0,7)>*3600+<tau_PR_in(0,5)>*(-134264))*((<ms_pipe(0,7)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 7)>: <tau_PS_out(0,7)>+(<tau_PS_no_out(0,7)>+(-10))*exp((((<ms_pipe(0,7)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 7)>: <tau_PR_out(0,7)>+(<tau_PR_no_out(0,7)>+(-10))*exp((((<mr_pipe(0,7)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 8)>: <tau_PS_no_out(0,8)>+(<tau_PS_in(0,7)>*204254+<tau_PS_in(0,6)>*<ms_pipe(0,8)>*3600+<tau_PS_in(0,6)>*(-204254))*((<ms_pipe(0,8)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 8)>: <tau_PS_no_out(0,8)>+(<tau_PS_in(0,7)>*204254+<tau_PS_in(0,6)>*<ms_pipe(0,8)>*3600+<tau_PS_in(0,6)>*(-204254))*((<ms_pipe(0,8)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 8)>: <tau_PR_no_out(0,8)>+(<tau_PR_in(0,7)>*204254+<tau_PR_in(0,6)>*<ms_pipe(0,8)>*3600+<tau_PR_in(0,6)>*(-204254))*((<ms_pipe(0,8)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 8)>: <tau_PR_no_out(0,8)>+(<tau_PR_in(0,7)>*204254+<tau_PR_in(0,6)>*<ms_pipe(0,8)>*3600+<tau_PR_in(0,6)>*(-204254))*((<ms_pipe(0,8)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 8)>: <tau_PS_out(0,8)>+(<tau_PS_no_out(0,8)>+(-10))*exp((((<ms_pipe(0,8)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 8)>: <tau_PR_out(0,8)>+(<tau_PR_no_out(0,8)>+(-10))*exp((((<mr_pipe(0,8)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 9)>: <tau_PS_no_out(0,9)>+(<tau_PS_in(0,8)>*220401+<tau_PS_in(0,7)>*<ms_pipe(0,9)>*3600+<tau_PS_in(0,7)>*(-220401))*((<ms_pipe(0,9)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 9)>: <tau_PS_no_out(0,9)>+(<tau_PS_in(0,8)>*220401+<tau_PS_in(0,7)>*<ms_pipe(0,9)>*3600+<tau_PS_in(0,7)>*(-220401))*((<ms_pipe(0,9)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 9)>: <tau_PR_no_out(0,9)>+(<tau_PR_in(0,8)>*220401+<tau_PR_in(0,7)>*<ms_pipe(0,9)>*3600+<tau_PR_in(0,7)>*(-220401))*((<ms_pipe(0,9)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 9)>: <tau_PR_no_out(0,9)>+(<tau_PR_in(0,8)>*220401+<tau_PR_in(0,7)>*<ms_pipe(0,9)>*3600+<tau_PR_in(0,7)>*(-220401))*((<ms_pipe(0,9)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 9)>: <tau_PS_out(0,9)>+(<tau_PS_no_out(0,9)>+(-10))*exp((((<ms_pipe(0,9)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 9)>: <tau_PR_out(0,9)>+(<tau_PR_no_out(0,9)>+(-10))*exp((((<mr_pipe(0,9)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 10)>: <tau_PS_no_out(0,10)>+(<tau_PS_in(0,9)>*216498+<tau_PS_in(0,8)>*<ms_pipe(0,10)>*3600+<tau_PS_in(0,8)>*(-216498))*((<ms_pipe(0,10)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 10)>: <tau_PS_no_out(0,10)>+(<tau_PS_in(0,9)>*216498+<tau_PS_in(0,8)>*<ms_pipe(0,10)>*3600+<tau_PS_in(0,8)>*(-216498))*((<ms_pipe(0,10)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 10)>: <tau_PR_no_out(0,10)>+(<tau_PR_in(0,9)>*216498+<tau_PR_in(0,8)>*<ms_pipe(0,10)>*3600+<tau_PR_in(0,8)>*(-216498))*((<ms_pipe(0,10)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 10)>: <tau_PR_no_out(0,10)>+(<tau_PR_in(0,9)>*216498+<tau_PR_in(0,8)>*<ms_pipe(0,10)>*3600+<tau_PR_in(0,8)>*(-216498))*((<ms_pipe(0,10)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 10)>: <tau_PS_out(0,10)>+(<tau_PS_no_out(0,10)>+(-10))*exp((((<ms_pipe(0,10)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 10)>: <tau_PR_out(0,10)>+(<tau_PR_no_out(0,10)>+(-10))*exp((((<mr_pipe(0,10)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 11)>: <tau_PS_no_out(0,11)>+(<tau_PS_in(0,10)>*196524+<tau_PS_in(0,9)>*<ms_pipe(0,11)>*3600+<tau_PS_in(0,9)>*(-196524))*((<ms_pipe(0,11)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 11)>: <tau_PS_no_out(0,11)>+(<tau_PS_in(0,10)>*196524+<tau_PS_in(0,9)>*<ms_pipe(0,11)>*3600+<tau_PS_in(0,9)>*(-196524))*((<ms_pipe(0,11)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 11)>: <tau_PR_no_out(0,11)>+(<tau_PR_in(0,10)>*196524+<tau_PR_in(0,9)>*<ms_pipe(0,11)>*3600+<tau_PR_in(0,9)>*(-196524))*((<ms_pipe(0,11)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 11)>: <tau_PR_no_out(0,11)>+(<tau_PR_in(0,10)>*196524+<tau_PR_in(0,9)>*<ms_pipe(0,11)>*3600+<tau_PR_in(0,9)>*(-196524))*((<ms_pipe(0,11)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 11)>: <tau_PS_out(0,11)>+(<tau_PS_no_out(0,11)>+(-10))*exp((((<ms_pipe(0,11)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 11)>: <tau_PR_out(0,11)>+(<tau_PR_no_out(0,11)>+(-10))*exp((((<mr_pipe(0,11)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_L (0, 12)>: <tau_PS_no_out(0,12)>+(<tau_PS_in(0,11)>*139125+<tau_PS_in(0,10)>*<ms_pipe(0,12)>*3600+<tau_PS_in(0,10)>*(-139125))*((<ms_pipe(0,12)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_supply_T_without_heat_loss_G (0, 12)>: <tau_PS_no_out(0,12)>+(<tau_PS_in(0,11)>*139125+<tau_PS_in(0,10)>*<ms_pipe(0,12)>*3600+<tau_PS_in(0,10)>*(-139125))*((<ms_pipe(0,12)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_L (0, 12)>: <tau_PR_no_out(0,12)>+(<tau_PR_in(0,11)>*139125+<tau_PR_in(0,10)>*<ms_pipe(0,12)>*3600+<tau_PR_in(0,10)>*(-139125))*((<ms_pipe(0,12)>*3600))^(-1)*(-1) <= 0;
+  [nonlinear] <outlet_return_T_without_heat_loss_G (0, 12)>: <tau_PR_no_out(0,12)>+(<tau_PR_in(0,11)>*139125+<tau_PR_in(0,10)>*<ms_pipe(0,12)>*3600+<tau_PR_in(0,10)>*(-139125))*((<ms_pipe(0,12)>*3600))^(-1)*(-1) >= 0;
+  [nonlinear] <outlet_supply_T_with_heat_loss (0, 12)>: <tau_PS_out(0,12)>+(<tau_PS_no_out(0,12)>+(-10))*exp((((<ms_pipe(0,12)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [nonlinear] <outlet_return_T_with_heat_loss (0, 12)>: <tau_PR_out(0,12)>+(<tau_PR_no_out(0,12)>+(-10))*exp((((<mr_pipe(0,12)>*0.0041813))^(-1)*(-0.00294)))*(-1)+(-10) == 0;
+  [linear] <objconst>: <objvar>[C] -63.8195<alpha(0,0)>[C] +35.995<alpha(0,1)>[C] +179.975<alpha(0,2)>[C] -446.7365<alpha(0,3)>[C] -79.7195<alpha(1,0)>[C] +4.19499999999999<alpha(1,1)>[C] +20.9749999999999<alpha(1,2)>[C] -558.0365<alpha(1,3)>[C] -88.2195<alpha(2,0)>[C] -12.805<alpha(2,1)>[C] -64.0250000000001<alpha(2,2)>[C] -617.5365<alpha(2,3)>[C] -97.5195<alpha(3,0)>[C] -31.405<alpha(3,1)>[C] -157.025<alpha(3,2)>[C] -682.6365<alpha(3,3)>[C] -100.2195<alpha(4,0)>[C] -36.805<alpha(4,1)>[C] -184.025<alpha(4,2)>[C] -701.5365<alpha(4,3)>[C] -105.3695<alpha(5,0)>[C] -47.105<alpha(5,1)>[C] -235.525<alpha(5,2)>[C] -737.5865<alpha(5,3)>[C] -102.8695<alpha(6,0)>[C] -42.105<alpha(6,1)>[C] -210.525<alpha(6,2)>[C] -720.0865<alpha(6,3)>[C] -92.6195<alpha(7,0)>[C] -21.605<alpha(7,1)>[C] -108.025<alpha(7,2)>[C] -648.3365<alpha(7,3)>[C] -72.9195<alpha(8,0)>[C] +17.795<alpha(8,1)>[C] +88.9749999999999<alpha(8,2)>[C] -510.4365<alpha(8,3)>[C] -59.4195<alpha(9,0)>[C] +44.795<alpha(9,1)>[C] +223.975<alpha(9,2)>[C] -415.9365<alpha(9,3)>[C] -48.0195<alpha(10,0)>[C] +67.595<alpha(10,1)>[C] +337.975<alpha(10,2)>[C] -336.1365<alpha(10,3)>[C] -18.3695<alpha(11,0)>[C] +126.895<alpha(11,1)>[C] +634.475<alpha(11,2)>[C] -128.5865<alpha(11,3)>[C] -18.4195<alpha(12,0)>[C] +126.795<alpha(12,1)>[C] +633.975<alpha(12,2)>[C] -128.9365<alpha(12,3)>[C] >= 0;
+END

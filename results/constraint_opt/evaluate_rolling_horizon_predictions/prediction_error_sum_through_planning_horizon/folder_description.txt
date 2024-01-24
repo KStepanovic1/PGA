@@ -1,0 +1,12 @@
+This folder containts root mean squared errors (rmse) per time step (rows) of four variables: supply inlet temperature, supply outlet temperature, mass flow and delivered heat (columns).
+
+Each rmse has been calculated as the sum of root mean squared errors when rolling out prediction horizon, where the number of rollouts is equal to the length of planning horizon.
+
+For example, rmse of delivered heat at row (time-step) 10 has been calculated as:
+
+
+\begin{equation}
+rmse = 0
+for j in range(T):
+    rmse = rmse+pow(sqrt(delivered heat estimation at the time step 10+j, actual delivered heat at the time step 10+j),2)
+\end{equation}

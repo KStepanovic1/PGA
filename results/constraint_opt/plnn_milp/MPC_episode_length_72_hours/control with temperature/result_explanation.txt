@@ -1,0 +1,12 @@
+Results that have no relax prepostion are for the setting where these lines of code were commented:
+
+#model.Params.FeasibilityTol = 0.01  # primal feasibility tolerance
+#model.Params.IntFeasTol = 0.01  # integer feasibility tolerance
+#model.Params.OptimalityTol = 0.01  # dual feasibility tolerance
+
+
+
+Results that have relax preposition are for the setting where code imposing certrain relaxation to mixed-integer linear program is active:
+model.Params.FeasibilityTol = 0.01  # primal feasibility tolerance
+model.Params.IntFeasTol = 0.01  # integer feasibility tolerance
+model.Params.OptimalityTol = 0.01  # dual feasibility tolerance

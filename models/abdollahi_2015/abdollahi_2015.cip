@@ -1,0 +1,1019 @@
+STATISTICS
+  Problem name     : CHPED
+  Variables        : 673 (0 binary, 0 integer, 0 implicit integer, 673 continuous)
+  Constraints      : 0 initial, 337 maximal
+OBJECTIVE
+  Sense            : minimize
+VARIABLES
+  [continuous] <alpha(0,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(0,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(0,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(0,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(1,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(1,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(1,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(1,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(2,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(2,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(2,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(2,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(3,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(3,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(3,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(3,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(4,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(4,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(4,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(4,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(5,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(5,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(5,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(5,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(6,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(6,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(6,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(6,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(7,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(7,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(7,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(7,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(8,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(8,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(8,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(8,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(9,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(9,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(9,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(9,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(10,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(10,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(10,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(10,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(11,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(11,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(11,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(11,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(12,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(12,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(12,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(12,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(13,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(13,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(13,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(13,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(14,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(14,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(14,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(14,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(15,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(15,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(15,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(15,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(16,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(16,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(16,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(16,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(17,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(17,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(17,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(17,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(18,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(18,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(18,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(18,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(19,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(19,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(19,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(19,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(20,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(20,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(20,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(20,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(21,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(21,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(21,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(21,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(22,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(22,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(22,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(22,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(23,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(23,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(23,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(23,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(24,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(24,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(24,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(24,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(25,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(25,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(25,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(25,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(26,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(26,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(26,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(26,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(27,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(27,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(27,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(27,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(28,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(28,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(28,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(28,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(29,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(29,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(29,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(29,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(30,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(30,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(30,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(30,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(31,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(31,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(31,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(31,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(32,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(32,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(32,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(32,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(33,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(33,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(33,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(33,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(34,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(34,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(34,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(34,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(35,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(35,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(35,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(35,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(36,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(36,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(36,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(36,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(37,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(37,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(37,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(37,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(38,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(38,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(38,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(38,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(39,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(39,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(39,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(39,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(40,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(40,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(40,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(40,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(41,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(41,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(41,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(41,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(42,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(42,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(42,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(42,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(43,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(43,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(43,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(43,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(44,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(44,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(44,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(44,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(45,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(45,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(45,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(45,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(46,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(46,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(46,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(46,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(47,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(47,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(47,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(47,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(48,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(48,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(48,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(48,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(49,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(49,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(49,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(49,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(50,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(50,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(50,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(50,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(51,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(51,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(51,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(51,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(52,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(52,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(52,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(52,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(53,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(53,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(53,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(53,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(54,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(54,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(54,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(54,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(55,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(55,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(55,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(55,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(56,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(56,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(56,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(56,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(57,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(57,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(57,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(57,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(58,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(58,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(58,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(58,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(59,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(59,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(59,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(59,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(60,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(60,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(60,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(60,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(61,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(61,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(61,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(61,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(62,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(62,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(62,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(62,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(63,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(63,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(63,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(63,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(64,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(64,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(64,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(64,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(65,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(65,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(65,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(65,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(66,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(66,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(66,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(66,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(67,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(67,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(67,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(67,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(68,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(68,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(68,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(68,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(69,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(69,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(69,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(69,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(70,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(70,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(70,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(70,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(71,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(71,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(71,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(71,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(72,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(72,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(72,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(72,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(73,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(73,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(73,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(73,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(74,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(74,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(74,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(74,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(75,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(75,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(75,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(75,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(76,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(76,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(76,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(76,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(77,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(77,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(77,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(77,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(78,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(78,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(78,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(78,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(79,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(79,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(79,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(79,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(80,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(80,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(80,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(80,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(81,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(81,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(81,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(81,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(82,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(82,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(82,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(82,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(83,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(83,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(83,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(83,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(84,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(84,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(84,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(84,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(85,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(85,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(85,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(85,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(86,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(86,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(86,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(86,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(87,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(87,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(87,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(87,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(88,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(88,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(88,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(88,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(89,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(89,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(89,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(89,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(90,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(90,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(90,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(90,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(91,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(91,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(91,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(91,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(92,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(92,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(92,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(92,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(93,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(93,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(93,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(93,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(94,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(94,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(94,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(94,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(95,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(95,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(95,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(95,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(96,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(96,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(96,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(96,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(97,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(97,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(97,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(97,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(98,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(98,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(98,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(98,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(99,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(99,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(99,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(99,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(100,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(100,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(100,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(100,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(101,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(101,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(101,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(101,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(102,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(102,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(102,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(102,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(103,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(103,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(103,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(103,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(104,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(104,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(104,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(104,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(105,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(105,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(105,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(105,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(106,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(106,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(106,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(106,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(107,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(107,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(107,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(107,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(108,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(108,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(108,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(108,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(109,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(109,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(109,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(109,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(110,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(110,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(110,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(110,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(111,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(111,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(111,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(111,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(112,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(112,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(112,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(112,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(113,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(113,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(113,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(113,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(114,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(114,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(114,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(114,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(115,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(115,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(115,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(115,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(116,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(116,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(116,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(116,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(117,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(117,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(117,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(117,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(118,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(118,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(118,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(118,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(119,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(119,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(119,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(119,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(120,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(120,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(120,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(120,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(121,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(121,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(121,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(121,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(122,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(122,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(122,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(122,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(123,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(123,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(123,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(123,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(124,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(124,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(124,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(124,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(125,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(125,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(125,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(125,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(126,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(126,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(126,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(126,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(127,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(127,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(127,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(127,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(128,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(128,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(128,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(128,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(129,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(129,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(129,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(129,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(130,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(130,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(130,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(130,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(131,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(131,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(131,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(131,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(132,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(132,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(132,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(132,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(133,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(133,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(133,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(133,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(134,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(134,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(134,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(134,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(135,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(135,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(135,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(135,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(136,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(136,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(136,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(136,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(137,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(137,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(137,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(137,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(138,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(138,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(138,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(138,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(139,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(139,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(139,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(139,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(140,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(140,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(140,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(140,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(141,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(141,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(141,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(141,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(142,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(142,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(142,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(142,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(143,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(143,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(143,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(143,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(144,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(144,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(144,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(144,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(145,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(145,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(145,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(145,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(146,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(146,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(146,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(146,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(147,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(147,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(147,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(147,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(148,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(148,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(148,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(148,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(149,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(149,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(149,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(149,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(150,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(150,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(150,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(150,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(151,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(151,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(151,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(151,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(152,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(152,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(152,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(152,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(153,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(153,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(153,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(153,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(154,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(154,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(154,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(154,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(155,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(155,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(155,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(155,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(156,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(156,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(156,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(156,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(157,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(157,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(157,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(157,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(158,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(158,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(158,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(158,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(159,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(159,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(159,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(159,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(160,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(160,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(160,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(160,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(161,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(161,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(161,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(161,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(162,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(162,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(162,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(162,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(163,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(163,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(163,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(163,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(164,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(164,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(164,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(164,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(165,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(165,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(165,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(165,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(166,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(166,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(166,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(166,3)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(167,0)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(167,1)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(167,2)>: obj=0, original bounds=[0,1]
+  [continuous] <alpha(167,3)>: obj=0, original bounds=[0,1]
+  [continuous] <objvar>: obj=1, original bounds=[-inf,+inf]
+CONSTRAINTS
+  [linear] <alpha_sum_constraint(0)>: <alpha(0,0)>[C] +<alpha(0,1)>[C] +<alpha(0,2)>[C] +<alpha(0,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(1)>: <alpha(1,0)>[C] +<alpha(1,1)>[C] +<alpha(1,2)>[C] +<alpha(1,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(2)>: <alpha(2,0)>[C] +<alpha(2,1)>[C] +<alpha(2,2)>[C] +<alpha(2,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(3)>: <alpha(3,0)>[C] +<alpha(3,1)>[C] +<alpha(3,2)>[C] +<alpha(3,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(4)>: <alpha(4,0)>[C] +<alpha(4,1)>[C] +<alpha(4,2)>[C] +<alpha(4,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(5)>: <alpha(5,0)>[C] +<alpha(5,1)>[C] +<alpha(5,2)>[C] +<alpha(5,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(6)>: <alpha(6,0)>[C] +<alpha(6,1)>[C] +<alpha(6,2)>[C] +<alpha(6,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(7)>: <alpha(7,0)>[C] +<alpha(7,1)>[C] +<alpha(7,2)>[C] +<alpha(7,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(8)>: <alpha(8,0)>[C] +<alpha(8,1)>[C] +<alpha(8,2)>[C] +<alpha(8,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(9)>: <alpha(9,0)>[C] +<alpha(9,1)>[C] +<alpha(9,2)>[C] +<alpha(9,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(10)>: <alpha(10,0)>[C] +<alpha(10,1)>[C] +<alpha(10,2)>[C] +<alpha(10,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(11)>: <alpha(11,0)>[C] +<alpha(11,1)>[C] +<alpha(11,2)>[C] +<alpha(11,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(12)>: <alpha(12,0)>[C] +<alpha(12,1)>[C] +<alpha(12,2)>[C] +<alpha(12,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(13)>: <alpha(13,0)>[C] +<alpha(13,1)>[C] +<alpha(13,2)>[C] +<alpha(13,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(14)>: <alpha(14,0)>[C] +<alpha(14,1)>[C] +<alpha(14,2)>[C] +<alpha(14,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(15)>: <alpha(15,0)>[C] +<alpha(15,1)>[C] +<alpha(15,2)>[C] +<alpha(15,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(16)>: <alpha(16,0)>[C] +<alpha(16,1)>[C] +<alpha(16,2)>[C] +<alpha(16,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(17)>: <alpha(17,0)>[C] +<alpha(17,1)>[C] +<alpha(17,2)>[C] +<alpha(17,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(18)>: <alpha(18,0)>[C] +<alpha(18,1)>[C] +<alpha(18,2)>[C] +<alpha(18,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(19)>: <alpha(19,0)>[C] +<alpha(19,1)>[C] +<alpha(19,2)>[C] +<alpha(19,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(20)>: <alpha(20,0)>[C] +<alpha(20,1)>[C] +<alpha(20,2)>[C] +<alpha(20,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(21)>: <alpha(21,0)>[C] +<alpha(21,1)>[C] +<alpha(21,2)>[C] +<alpha(21,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(22)>: <alpha(22,0)>[C] +<alpha(22,1)>[C] +<alpha(22,2)>[C] +<alpha(22,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(23)>: <alpha(23,0)>[C] +<alpha(23,1)>[C] +<alpha(23,2)>[C] +<alpha(23,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(24)>: <alpha(24,0)>[C] +<alpha(24,1)>[C] +<alpha(24,2)>[C] +<alpha(24,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(25)>: <alpha(25,0)>[C] +<alpha(25,1)>[C] +<alpha(25,2)>[C] +<alpha(25,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(26)>: <alpha(26,0)>[C] +<alpha(26,1)>[C] +<alpha(26,2)>[C] +<alpha(26,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(27)>: <alpha(27,0)>[C] +<alpha(27,1)>[C] +<alpha(27,2)>[C] +<alpha(27,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(28)>: <alpha(28,0)>[C] +<alpha(28,1)>[C] +<alpha(28,2)>[C] +<alpha(28,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(29)>: <alpha(29,0)>[C] +<alpha(29,1)>[C] +<alpha(29,2)>[C] +<alpha(29,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(30)>: <alpha(30,0)>[C] +<alpha(30,1)>[C] +<alpha(30,2)>[C] +<alpha(30,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(31)>: <alpha(31,0)>[C] +<alpha(31,1)>[C] +<alpha(31,2)>[C] +<alpha(31,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(32)>: <alpha(32,0)>[C] +<alpha(32,1)>[C] +<alpha(32,2)>[C] +<alpha(32,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(33)>: <alpha(33,0)>[C] +<alpha(33,1)>[C] +<alpha(33,2)>[C] +<alpha(33,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(34)>: <alpha(34,0)>[C] +<alpha(34,1)>[C] +<alpha(34,2)>[C] +<alpha(34,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(35)>: <alpha(35,0)>[C] +<alpha(35,1)>[C] +<alpha(35,2)>[C] +<alpha(35,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(36)>: <alpha(36,0)>[C] +<alpha(36,1)>[C] +<alpha(36,2)>[C] +<alpha(36,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(37)>: <alpha(37,0)>[C] +<alpha(37,1)>[C] +<alpha(37,2)>[C] +<alpha(37,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(38)>: <alpha(38,0)>[C] +<alpha(38,1)>[C] +<alpha(38,2)>[C] +<alpha(38,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(39)>: <alpha(39,0)>[C] +<alpha(39,1)>[C] +<alpha(39,2)>[C] +<alpha(39,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(40)>: <alpha(40,0)>[C] +<alpha(40,1)>[C] +<alpha(40,2)>[C] +<alpha(40,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(41)>: <alpha(41,0)>[C] +<alpha(41,1)>[C] +<alpha(41,2)>[C] +<alpha(41,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(42)>: <alpha(42,0)>[C] +<alpha(42,1)>[C] +<alpha(42,2)>[C] +<alpha(42,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(43)>: <alpha(43,0)>[C] +<alpha(43,1)>[C] +<alpha(43,2)>[C] +<alpha(43,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(44)>: <alpha(44,0)>[C] +<alpha(44,1)>[C] +<alpha(44,2)>[C] +<alpha(44,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(45)>: <alpha(45,0)>[C] +<alpha(45,1)>[C] +<alpha(45,2)>[C] +<alpha(45,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(46)>: <alpha(46,0)>[C] +<alpha(46,1)>[C] +<alpha(46,2)>[C] +<alpha(46,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(47)>: <alpha(47,0)>[C] +<alpha(47,1)>[C] +<alpha(47,2)>[C] +<alpha(47,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(48)>: <alpha(48,0)>[C] +<alpha(48,1)>[C] +<alpha(48,2)>[C] +<alpha(48,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(49)>: <alpha(49,0)>[C] +<alpha(49,1)>[C] +<alpha(49,2)>[C] +<alpha(49,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(50)>: <alpha(50,0)>[C] +<alpha(50,1)>[C] +<alpha(50,2)>[C] +<alpha(50,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(51)>: <alpha(51,0)>[C] +<alpha(51,1)>[C] +<alpha(51,2)>[C] +<alpha(51,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(52)>: <alpha(52,0)>[C] +<alpha(52,1)>[C] +<alpha(52,2)>[C] +<alpha(52,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(53)>: <alpha(53,0)>[C] +<alpha(53,1)>[C] +<alpha(53,2)>[C] +<alpha(53,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(54)>: <alpha(54,0)>[C] +<alpha(54,1)>[C] +<alpha(54,2)>[C] +<alpha(54,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(55)>: <alpha(55,0)>[C] +<alpha(55,1)>[C] +<alpha(55,2)>[C] +<alpha(55,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(56)>: <alpha(56,0)>[C] +<alpha(56,1)>[C] +<alpha(56,2)>[C] +<alpha(56,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(57)>: <alpha(57,0)>[C] +<alpha(57,1)>[C] +<alpha(57,2)>[C] +<alpha(57,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(58)>: <alpha(58,0)>[C] +<alpha(58,1)>[C] +<alpha(58,2)>[C] +<alpha(58,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(59)>: <alpha(59,0)>[C] +<alpha(59,1)>[C] +<alpha(59,2)>[C] +<alpha(59,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(60)>: <alpha(60,0)>[C] +<alpha(60,1)>[C] +<alpha(60,2)>[C] +<alpha(60,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(61)>: <alpha(61,0)>[C] +<alpha(61,1)>[C] +<alpha(61,2)>[C] +<alpha(61,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(62)>: <alpha(62,0)>[C] +<alpha(62,1)>[C] +<alpha(62,2)>[C] +<alpha(62,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(63)>: <alpha(63,0)>[C] +<alpha(63,1)>[C] +<alpha(63,2)>[C] +<alpha(63,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(64)>: <alpha(64,0)>[C] +<alpha(64,1)>[C] +<alpha(64,2)>[C] +<alpha(64,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(65)>: <alpha(65,0)>[C] +<alpha(65,1)>[C] +<alpha(65,2)>[C] +<alpha(65,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(66)>: <alpha(66,0)>[C] +<alpha(66,1)>[C] +<alpha(66,2)>[C] +<alpha(66,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(67)>: <alpha(67,0)>[C] +<alpha(67,1)>[C] +<alpha(67,2)>[C] +<alpha(67,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(68)>: <alpha(68,0)>[C] +<alpha(68,1)>[C] +<alpha(68,2)>[C] +<alpha(68,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(69)>: <alpha(69,0)>[C] +<alpha(69,1)>[C] +<alpha(69,2)>[C] +<alpha(69,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(70)>: <alpha(70,0)>[C] +<alpha(70,1)>[C] +<alpha(70,2)>[C] +<alpha(70,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(71)>: <alpha(71,0)>[C] +<alpha(71,1)>[C] +<alpha(71,2)>[C] +<alpha(71,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(72)>: <alpha(72,0)>[C] +<alpha(72,1)>[C] +<alpha(72,2)>[C] +<alpha(72,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(73)>: <alpha(73,0)>[C] +<alpha(73,1)>[C] +<alpha(73,2)>[C] +<alpha(73,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(74)>: <alpha(74,0)>[C] +<alpha(74,1)>[C] +<alpha(74,2)>[C] +<alpha(74,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(75)>: <alpha(75,0)>[C] +<alpha(75,1)>[C] +<alpha(75,2)>[C] +<alpha(75,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(76)>: <alpha(76,0)>[C] +<alpha(76,1)>[C] +<alpha(76,2)>[C] +<alpha(76,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(77)>: <alpha(77,0)>[C] +<alpha(77,1)>[C] +<alpha(77,2)>[C] +<alpha(77,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(78)>: <alpha(78,0)>[C] +<alpha(78,1)>[C] +<alpha(78,2)>[C] +<alpha(78,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(79)>: <alpha(79,0)>[C] +<alpha(79,1)>[C] +<alpha(79,2)>[C] +<alpha(79,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(80)>: <alpha(80,0)>[C] +<alpha(80,1)>[C] +<alpha(80,2)>[C] +<alpha(80,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(81)>: <alpha(81,0)>[C] +<alpha(81,1)>[C] +<alpha(81,2)>[C] +<alpha(81,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(82)>: <alpha(82,0)>[C] +<alpha(82,1)>[C] +<alpha(82,2)>[C] +<alpha(82,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(83)>: <alpha(83,0)>[C] +<alpha(83,1)>[C] +<alpha(83,2)>[C] +<alpha(83,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(84)>: <alpha(84,0)>[C] +<alpha(84,1)>[C] +<alpha(84,2)>[C] +<alpha(84,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(85)>: <alpha(85,0)>[C] +<alpha(85,1)>[C] +<alpha(85,2)>[C] +<alpha(85,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(86)>: <alpha(86,0)>[C] +<alpha(86,1)>[C] +<alpha(86,2)>[C] +<alpha(86,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(87)>: <alpha(87,0)>[C] +<alpha(87,1)>[C] +<alpha(87,2)>[C] +<alpha(87,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(88)>: <alpha(88,0)>[C] +<alpha(88,1)>[C] +<alpha(88,2)>[C] +<alpha(88,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(89)>: <alpha(89,0)>[C] +<alpha(89,1)>[C] +<alpha(89,2)>[C] +<alpha(89,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(90)>: <alpha(90,0)>[C] +<alpha(90,1)>[C] +<alpha(90,2)>[C] +<alpha(90,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(91)>: <alpha(91,0)>[C] +<alpha(91,1)>[C] +<alpha(91,2)>[C] +<alpha(91,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(92)>: <alpha(92,0)>[C] +<alpha(92,1)>[C] +<alpha(92,2)>[C] +<alpha(92,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(93)>: <alpha(93,0)>[C] +<alpha(93,1)>[C] +<alpha(93,2)>[C] +<alpha(93,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(94)>: <alpha(94,0)>[C] +<alpha(94,1)>[C] +<alpha(94,2)>[C] +<alpha(94,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(95)>: <alpha(95,0)>[C] +<alpha(95,1)>[C] +<alpha(95,2)>[C] +<alpha(95,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(96)>: <alpha(96,0)>[C] +<alpha(96,1)>[C] +<alpha(96,2)>[C] +<alpha(96,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(97)>: <alpha(97,0)>[C] +<alpha(97,1)>[C] +<alpha(97,2)>[C] +<alpha(97,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(98)>: <alpha(98,0)>[C] +<alpha(98,1)>[C] +<alpha(98,2)>[C] +<alpha(98,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(99)>: <alpha(99,0)>[C] +<alpha(99,1)>[C] +<alpha(99,2)>[C] +<alpha(99,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(100)>: <alpha(100,0)>[C] +<alpha(100,1)>[C] +<alpha(100,2)>[C] +<alpha(100,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(101)>: <alpha(101,0)>[C] +<alpha(101,1)>[C] +<alpha(101,2)>[C] +<alpha(101,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(102)>: <alpha(102,0)>[C] +<alpha(102,1)>[C] +<alpha(102,2)>[C] +<alpha(102,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(103)>: <alpha(103,0)>[C] +<alpha(103,1)>[C] +<alpha(103,2)>[C] +<alpha(103,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(104)>: <alpha(104,0)>[C] +<alpha(104,1)>[C] +<alpha(104,2)>[C] +<alpha(104,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(105)>: <alpha(105,0)>[C] +<alpha(105,1)>[C] +<alpha(105,2)>[C] +<alpha(105,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(106)>: <alpha(106,0)>[C] +<alpha(106,1)>[C] +<alpha(106,2)>[C] +<alpha(106,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(107)>: <alpha(107,0)>[C] +<alpha(107,1)>[C] +<alpha(107,2)>[C] +<alpha(107,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(108)>: <alpha(108,0)>[C] +<alpha(108,1)>[C] +<alpha(108,2)>[C] +<alpha(108,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(109)>: <alpha(109,0)>[C] +<alpha(109,1)>[C] +<alpha(109,2)>[C] +<alpha(109,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(110)>: <alpha(110,0)>[C] +<alpha(110,1)>[C] +<alpha(110,2)>[C] +<alpha(110,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(111)>: <alpha(111,0)>[C] +<alpha(111,1)>[C] +<alpha(111,2)>[C] +<alpha(111,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(112)>: <alpha(112,0)>[C] +<alpha(112,1)>[C] +<alpha(112,2)>[C] +<alpha(112,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(113)>: <alpha(113,0)>[C] +<alpha(113,1)>[C] +<alpha(113,2)>[C] +<alpha(113,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(114)>: <alpha(114,0)>[C] +<alpha(114,1)>[C] +<alpha(114,2)>[C] +<alpha(114,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(115)>: <alpha(115,0)>[C] +<alpha(115,1)>[C] +<alpha(115,2)>[C] +<alpha(115,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(116)>: <alpha(116,0)>[C] +<alpha(116,1)>[C] +<alpha(116,2)>[C] +<alpha(116,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(117)>: <alpha(117,0)>[C] +<alpha(117,1)>[C] +<alpha(117,2)>[C] +<alpha(117,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(118)>: <alpha(118,0)>[C] +<alpha(118,1)>[C] +<alpha(118,2)>[C] +<alpha(118,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(119)>: <alpha(119,0)>[C] +<alpha(119,1)>[C] +<alpha(119,2)>[C] +<alpha(119,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(120)>: <alpha(120,0)>[C] +<alpha(120,1)>[C] +<alpha(120,2)>[C] +<alpha(120,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(121)>: <alpha(121,0)>[C] +<alpha(121,1)>[C] +<alpha(121,2)>[C] +<alpha(121,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(122)>: <alpha(122,0)>[C] +<alpha(122,1)>[C] +<alpha(122,2)>[C] +<alpha(122,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(123)>: <alpha(123,0)>[C] +<alpha(123,1)>[C] +<alpha(123,2)>[C] +<alpha(123,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(124)>: <alpha(124,0)>[C] +<alpha(124,1)>[C] +<alpha(124,2)>[C] +<alpha(124,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(125)>: <alpha(125,0)>[C] +<alpha(125,1)>[C] +<alpha(125,2)>[C] +<alpha(125,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(126)>: <alpha(126,0)>[C] +<alpha(126,1)>[C] +<alpha(126,2)>[C] +<alpha(126,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(127)>: <alpha(127,0)>[C] +<alpha(127,1)>[C] +<alpha(127,2)>[C] +<alpha(127,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(128)>: <alpha(128,0)>[C] +<alpha(128,1)>[C] +<alpha(128,2)>[C] +<alpha(128,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(129)>: <alpha(129,0)>[C] +<alpha(129,1)>[C] +<alpha(129,2)>[C] +<alpha(129,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(130)>: <alpha(130,0)>[C] +<alpha(130,1)>[C] +<alpha(130,2)>[C] +<alpha(130,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(131)>: <alpha(131,0)>[C] +<alpha(131,1)>[C] +<alpha(131,2)>[C] +<alpha(131,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(132)>: <alpha(132,0)>[C] +<alpha(132,1)>[C] +<alpha(132,2)>[C] +<alpha(132,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(133)>: <alpha(133,0)>[C] +<alpha(133,1)>[C] +<alpha(133,2)>[C] +<alpha(133,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(134)>: <alpha(134,0)>[C] +<alpha(134,1)>[C] +<alpha(134,2)>[C] +<alpha(134,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(135)>: <alpha(135,0)>[C] +<alpha(135,1)>[C] +<alpha(135,2)>[C] +<alpha(135,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(136)>: <alpha(136,0)>[C] +<alpha(136,1)>[C] +<alpha(136,2)>[C] +<alpha(136,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(137)>: <alpha(137,0)>[C] +<alpha(137,1)>[C] +<alpha(137,2)>[C] +<alpha(137,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(138)>: <alpha(138,0)>[C] +<alpha(138,1)>[C] +<alpha(138,2)>[C] +<alpha(138,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(139)>: <alpha(139,0)>[C] +<alpha(139,1)>[C] +<alpha(139,2)>[C] +<alpha(139,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(140)>: <alpha(140,0)>[C] +<alpha(140,1)>[C] +<alpha(140,2)>[C] +<alpha(140,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(141)>: <alpha(141,0)>[C] +<alpha(141,1)>[C] +<alpha(141,2)>[C] +<alpha(141,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(142)>: <alpha(142,0)>[C] +<alpha(142,1)>[C] +<alpha(142,2)>[C] +<alpha(142,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(143)>: <alpha(143,0)>[C] +<alpha(143,1)>[C] +<alpha(143,2)>[C] +<alpha(143,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(144)>: <alpha(144,0)>[C] +<alpha(144,1)>[C] +<alpha(144,2)>[C] +<alpha(144,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(145)>: <alpha(145,0)>[C] +<alpha(145,1)>[C] +<alpha(145,2)>[C] +<alpha(145,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(146)>: <alpha(146,0)>[C] +<alpha(146,1)>[C] +<alpha(146,2)>[C] +<alpha(146,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(147)>: <alpha(147,0)>[C] +<alpha(147,1)>[C] +<alpha(147,2)>[C] +<alpha(147,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(148)>: <alpha(148,0)>[C] +<alpha(148,1)>[C] +<alpha(148,2)>[C] +<alpha(148,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(149)>: <alpha(149,0)>[C] +<alpha(149,1)>[C] +<alpha(149,2)>[C] +<alpha(149,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(150)>: <alpha(150,0)>[C] +<alpha(150,1)>[C] +<alpha(150,2)>[C] +<alpha(150,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(151)>: <alpha(151,0)>[C] +<alpha(151,1)>[C] +<alpha(151,2)>[C] +<alpha(151,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(152)>: <alpha(152,0)>[C] +<alpha(152,1)>[C] +<alpha(152,2)>[C] +<alpha(152,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(153)>: <alpha(153,0)>[C] +<alpha(153,1)>[C] +<alpha(153,2)>[C] +<alpha(153,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(154)>: <alpha(154,0)>[C] +<alpha(154,1)>[C] +<alpha(154,2)>[C] +<alpha(154,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(155)>: <alpha(155,0)>[C] +<alpha(155,1)>[C] +<alpha(155,2)>[C] +<alpha(155,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(156)>: <alpha(156,0)>[C] +<alpha(156,1)>[C] +<alpha(156,2)>[C] +<alpha(156,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(157)>: <alpha(157,0)>[C] +<alpha(157,1)>[C] +<alpha(157,2)>[C] +<alpha(157,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(158)>: <alpha(158,0)>[C] +<alpha(158,1)>[C] +<alpha(158,2)>[C] +<alpha(158,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(159)>: <alpha(159,0)>[C] +<alpha(159,1)>[C] +<alpha(159,2)>[C] +<alpha(159,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(160)>: <alpha(160,0)>[C] +<alpha(160,1)>[C] +<alpha(160,2)>[C] +<alpha(160,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(161)>: <alpha(161,0)>[C] +<alpha(161,1)>[C] +<alpha(161,2)>[C] +<alpha(161,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(162)>: <alpha(162,0)>[C] +<alpha(162,1)>[C] +<alpha(162,2)>[C] +<alpha(162,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(163)>: <alpha(163,0)>[C] +<alpha(163,1)>[C] +<alpha(163,2)>[C] +<alpha(163,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(164)>: <alpha(164,0)>[C] +<alpha(164,1)>[C] +<alpha(164,2)>[C] +<alpha(164,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(165)>: <alpha(165,0)>[C] +<alpha(165,1)>[C] +<alpha(165,2)>[C] +<alpha(165,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(166)>: <alpha(166,0)>[C] +<alpha(166,1)>[C] +<alpha(166,2)>[C] +<alpha(166,3)>[C] == 1;
+  [linear] <alpha_sum_constraint(167)>: <alpha(167,0)>[C] +<alpha(167,1)>[C] +<alpha(167,2)>[C] +<alpha(167,3)>[C] == 1;
+  [linear] <heat_demand(0)>:  +10<alpha(0,0)>[C] +70<alpha(0,3)>[C] == 24.2876470588235;
+  [linear] <heat_demand(1)>:  +10<alpha(1,0)>[C] +70<alpha(1,3)>[C] == 25.5076470588235;
+  [linear] <heat_demand(2)>:  +10<alpha(2,0)>[C] +70<alpha(2,3)>[C] == 25.8876470588235;
+  [linear] <heat_demand(3)>:  +10<alpha(3,0)>[C] +70<alpha(3,3)>[C] == 26.6176470588235;
+  [linear] <heat_demand(4)>:  +10<alpha(4,0)>[C] +70<alpha(4,3)>[C] == 28.1676470588235;
+  [linear] <heat_demand(5)>:  +10<alpha(5,0)>[C] +70<alpha(5,3)>[C] == 31.0376470588235;
+  [linear] <heat_demand(6)>:  +10<alpha(6,0)>[C] +70<alpha(6,3)>[C] == 39.7276470588235;
+  [linear] <heat_demand(7)>:  +10<alpha(7,0)>[C] +70<alpha(7,3)>[C] == 47.6676470588235;
+  [linear] <heat_demand(8)>:  +10<alpha(8,0)>[C] +70<alpha(8,3)>[C] == 46.3076470588235;
+  [linear] <heat_demand(9)>:  +10<alpha(9,0)>[C] +70<alpha(9,3)>[C] == 46.8176470588235;
+  [linear] <heat_demand(10)>:  +10<alpha(10,0)>[C] +70<alpha(10,3)>[C] == 44.9676470588235;
+  [linear] <heat_demand(11)>:  +10<alpha(11,0)>[C] +70<alpha(11,3)>[C] == 43.1676470588235;
+  [linear] <heat_demand(12)>:  +10<alpha(12,0)>[C] +70<alpha(12,3)>[C] == 41.5876470588235;
+  [linear] <heat_demand(13)>:  +10<alpha(13,0)>[C] +70<alpha(13,3)>[C] == 40.5176470588235;
+  [linear] <heat_demand(14)>:  +10<alpha(14,0)>[C] +70<alpha(14,3)>[C] == 39.7176470588235;
+  [linear] <heat_demand(15)>:  +10<alpha(15,0)>[C] +70<alpha(15,3)>[C] == 40.2876470588235;
+  [linear] <heat_demand(16)>:  +10<alpha(16,0)>[C] +70<alpha(16,3)>[C] == 40.6776470588235;
+  [linear] <heat_demand(17)>:  +10<alpha(17,0)>[C] +70<alpha(17,3)>[C] == 41.8876470588235;
+  [linear] <heat_demand(18)>:  +10<alpha(18,0)>[C] +70<alpha(18,3)>[C] == 42.2476470588235;
+  [linear] <heat_demand(19)>:  +10<alpha(19,0)>[C] +70<alpha(19,3)>[C] == 42.2776470588235;
+  [linear] <heat_demand(20)>:  +10<alpha(20,0)>[C] +70<alpha(20,3)>[C] == 41.3576470588235;
+  [linear] <heat_demand(21)>:  +10<alpha(21,0)>[C] +70<alpha(21,3)>[C] == 39.6776470588235;
+  [linear] <heat_demand(22)>:  +10<alpha(22,0)>[C] +70<alpha(22,3)>[C] == 36.0476470588235;
+  [linear] <heat_demand(23)>:  +10<alpha(23,0)>[C] +70<alpha(23,3)>[C] == 30.4676470588235;
+  [linear] <heat_demand(24)>:  +10<alpha(24,0)>[C] +70<alpha(24,3)>[C] == 26.4476470588235;
+  [linear] <heat_demand(25)>:  +10<alpha(25,0)>[C] +70<alpha(25,3)>[C] == 25.8476470588235;
+  [linear] <heat_demand(26)>:  +10<alpha(26,0)>[C] +70<alpha(26,3)>[C] == 26.3276470588235;
+  [linear] <heat_demand(27)>:  +10<alpha(27,0)>[C] +70<alpha(27,3)>[C] == 26.9976470588235;
+  [linear] <heat_demand(28)>:  +10<alpha(28,0)>[C] +70<alpha(28,3)>[C] == 28.2876470588235;
+  [linear] <heat_demand(29)>:  +10<alpha(29,0)>[C] +70<alpha(29,3)>[C] == 31.5976470588235;
+  [linear] <heat_demand(30)>:  +10<alpha(30,0)>[C] +70<alpha(30,3)>[C] == 41.1376470588235;
+  [linear] <heat_demand(31)>:  +10<alpha(31,0)>[C] +70<alpha(31,3)>[C] == 47.9976470588235;
+  [linear] <heat_demand(32)>:  +10<alpha(32,0)>[C] +70<alpha(32,3)>[C] == 46.1876470588235;
+  [linear] <heat_demand(33)>:  +10<alpha(33,0)>[C] +70<alpha(33,3)>[C] == 45.4076470588235;
+  [linear] <heat_demand(34)>:  +10<alpha(34,0)>[C] +70<alpha(34,3)>[C] == 44.2476470588235;
+  [linear] <heat_demand(35)>:  +10<alpha(35,0)>[C] +70<alpha(35,3)>[C] == 42.3576470588235;
+  [linear] <heat_demand(36)>:  +10<alpha(36,0)>[C] +70<alpha(36,3)>[C] == 41.4176470588235;
+  [linear] <heat_demand(37)>:  +10<alpha(37,0)>[C] +70<alpha(37,3)>[C] == 40.3276470588235;
+  [linear] <heat_demand(38)>:  +10<alpha(38,0)>[C] +70<alpha(38,3)>[C] == 39.6076470588235;
+  [linear] <heat_demand(39)>:  +10<alpha(39,0)>[C] +70<alpha(39,3)>[C] == 39.3976470588235;
+  [linear] <heat_demand(40)>:  +10<alpha(40,0)>[C] +70<alpha(40,3)>[C] == 39.3476470588235;
+  [linear] <heat_demand(41)>:  +10<alpha(41,0)>[C] +70<alpha(41,3)>[C] == 41.0676470588235;
+  [linear] <heat_demand(42)>:  +10<alpha(42,0)>[C] +70<alpha(42,3)>[C] == 42.0176470588235;
+  [linear] <heat_demand(43)>:  +10<alpha(43,0)>[C] +70<alpha(43,3)>[C] == 41.9576470588235;
+  [linear] <heat_demand(44)>:  +10<alpha(44,0)>[C] +70<alpha(44,3)>[C] == 41.3576470588235;
+  [linear] <heat_demand(45)>:  +10<alpha(45,0)>[C] +70<alpha(45,3)>[C] == 40.1276470588235;
+  [linear] <heat_demand(46)>:  +10<alpha(46,0)>[C] +70<alpha(46,3)>[C] == 36.6976470588235;
+  [linear] <heat_demand(47)>:  +10<alpha(47,0)>[C] +70<alpha(47,3)>[C] == 31.1076470588235;
+  [linear] <heat_demand(48)>:  +10<alpha(48,0)>[C] +70<alpha(48,3)>[C] == 26.9076470588235;
+  [linear] <heat_demand(49)>:  +10<alpha(49,0)>[C] +70<alpha(49,3)>[C] == 25.4876470588235;
+  [linear] <heat_demand(50)>:  +10<alpha(50,0)>[C] +70<alpha(50,3)>[C] == 26.0076470588235;
+  [linear] <heat_demand(51)>:  +10<alpha(51,0)>[C] +70<alpha(51,3)>[C] == 26.1676470588235;
+  [linear] <heat_demand(52)>:  +10<alpha(52,0)>[C] +70<alpha(52,3)>[C] == 27.5976470588235;
+  [linear] <heat_demand(53)>:  +10<alpha(53,0)>[C] +70<alpha(53,3)>[C] == 30.9876470588235;
+  [linear] <heat_demand(54)>:  +10<alpha(54,0)>[C] +70<alpha(54,3)>[C] == 40.9976470588235;
+  [linear] <heat_demand(55)>:  +10<alpha(55,0)>[C] +70<alpha(55,3)>[C] == 45.1376470588235;
+  [linear] <heat_demand(56)>:  +10<alpha(56,0)>[C] +70<alpha(56,3)>[C] == 42.8176470588235;
+  [linear] <heat_demand(57)>:  +10<alpha(57,0)>[C] +70<alpha(57,3)>[C] == 42.8076470588235;
+  [linear] <heat_demand(58)>:  +10<alpha(58,0)>[C] +70<alpha(58,3)>[C] == 41.4176470588235;
+  [linear] <heat_demand(59)>:  +10<alpha(59,0)>[C] +70<alpha(59,3)>[C] == 39.9276470588235;
+  [linear] <heat_demand(60)>:  +10<alpha(60,0)>[C] +70<alpha(60,3)>[C] == 39.2276470588235;
+  [linear] <heat_demand(61)>:  +10<alpha(61,0)>[C] +70<alpha(61,3)>[C] == 38.0176470588235;
+  [linear] <heat_demand(62)>:  +10<alpha(62,0)>[C] +70<alpha(62,3)>[C] == 37.5976470588235;
+  [linear] <heat_demand(63)>:  +10<alpha(63,0)>[C] +70<alpha(63,3)>[C] == 37.8976470588235;
+  [linear] <heat_demand(64)>:  +10<alpha(64,0)>[C] +70<alpha(64,3)>[C] == 38.6276470588235;
+  [linear] <heat_demand(65)>:  +10<alpha(65,0)>[C] +70<alpha(65,3)>[C] == 40.0276470588235;
+  [linear] <heat_demand(66)>:  +10<alpha(66,0)>[C] +70<alpha(66,3)>[C] == 41.1376470588235;
+  [linear] <heat_demand(67)>:  +10<alpha(67,0)>[C] +70<alpha(67,3)>[C] == 40.9176470588235;
+  [linear] <heat_demand(68)>:  +10<alpha(68,0)>[C] +70<alpha(68,3)>[C] == 40.2876470588235;
+  [linear] <heat_demand(69)>:  +10<alpha(69,0)>[C] +70<alpha(69,3)>[C] == 39.1576470588235;
+  [linear] <heat_demand(70)>:  +10<alpha(70,0)>[C] +70<alpha(70,3)>[C] == 36.1476470588235;
+  [linear] <heat_demand(71)>:  +10<alpha(71,0)>[C] +70<alpha(71,3)>[C] == 30.5076470588235;
+  [linear] <heat_demand(72)>:  +10<alpha(72,0)>[C] +70<alpha(72,3)>[C] == 26.1976470588235;
+  [linear] <heat_demand(73)>:  +10<alpha(73,0)>[C] +70<alpha(73,3)>[C] == 22.2876470588235;
+  [linear] <heat_demand(74)>:  +10<alpha(74,0)>[C] +70<alpha(74,3)>[C] == 22.9476470588235;
+  [linear] <heat_demand(75)>:  +10<alpha(75,0)>[C] +70<alpha(75,3)>[C] == 23.4976470588235;
+  [linear] <heat_demand(76)>:  +10<alpha(76,0)>[C] +70<alpha(76,3)>[C] == 25.4676470588235;
+  [linear] <heat_demand(77)>:  +10<alpha(77,0)>[C] +70<alpha(77,3)>[C] == 28.9076470588235;
+  [linear] <heat_demand(78)>:  +10<alpha(78,0)>[C] +70<alpha(78,3)>[C] == 38.1176470588235;
+  [linear] <heat_demand(79)>:  +10<alpha(79,0)>[C] +70<alpha(79,3)>[C] == 44.8676470588235;
+  [linear] <heat_demand(80)>:  +10<alpha(80,0)>[C] +70<alpha(80,3)>[C] == 43.7776470588235;
+  [linear] <heat_demand(81)>:  +10<alpha(81,0)>[C] +70<alpha(81,3)>[C] == 43.1576470588235;
+  [linear] <heat_demand(82)>:  +10<alpha(82,0)>[C] +70<alpha(82,3)>[C] == 41.5876470588235;
+  [linear] <heat_demand(83)>:  +10<alpha(83,0)>[C] +70<alpha(83,3)>[C] == 39.7876470588235;
+  [linear] <heat_demand(84)>:  +10<alpha(84,0)>[C] +70<alpha(84,3)>[C] == 38.0676470588235;
+  [linear] <heat_demand(85)>:  +10<alpha(85,0)>[C] +70<alpha(85,3)>[C] == 36.8276470588235;
+  [linear] <heat_demand(86)>:  +10<alpha(86,0)>[C] +70<alpha(86,3)>[C] == 36.8476470588235;
+  [linear] <heat_demand(87)>:  +10<alpha(87,0)>[C] +70<alpha(87,3)>[C] == 37.0176470588235;
+  [linear] <heat_demand(88)>:  +10<alpha(88,0)>[C] +70<alpha(88,3)>[C] == 37.5876470588235;
+  [linear] <heat_demand(89)>:  +10<alpha(89,0)>[C] +70<alpha(89,3)>[C] == 38.8576470588235;
+  [linear] <heat_demand(90)>:  +10<alpha(90,0)>[C] +70<alpha(90,3)>[C] == 40.0476470588235;
+  [linear] <heat_demand(91)>:  +10<alpha(91,0)>[C] +70<alpha(91,3)>[C] == 40.1676470588235;
+  [linear] <heat_demand(92)>:  +10<alpha(92,0)>[C] +70<alpha(92,3)>[C] == 39.5776470588235;
+  [linear] <heat_demand(93)>:  +10<alpha(93,0)>[C] +70<alpha(93,3)>[C] == 37.8976470588235;
+  [linear] <heat_demand(94)>:  +10<alpha(94,0)>[C] +70<alpha(94,3)>[C] == 34.7876470588235;
+  [linear] <heat_demand(95)>:  +10<alpha(95,0)>[C] +70<alpha(95,3)>[C] == 27.9476470588235;
+  [linear] <heat_demand(96)>:  +10<alpha(96,0)>[C] +70<alpha(96,3)>[C] == 23.4576470588235;
+  [linear] <heat_demand(97)>:  +10<alpha(97,0)>[C] +70<alpha(97,3)>[C] == 20.6776470588235;
+  [linear] <heat_demand(98)>:  +10<alpha(98,0)>[C] +70<alpha(98,3)>[C] == 21.4476470588235;
+  [linear] <heat_demand(99)>:  +10<alpha(99,0)>[C] +70<alpha(99,3)>[C] == 21.9576470588235;
+  [linear] <heat_demand(100)>:  +10<alpha(100,0)>[C] +70<alpha(100,3)>[C] == 23.6076470588235;
+  [linear] <heat_demand(101)>:  +10<alpha(101,0)>[C] +70<alpha(101,3)>[C] == 26.7376470588235;
+  [linear] <heat_demand(102)>:  +10<alpha(102,0)>[C] +70<alpha(102,3)>[C] == 35.1576470588235;
+  [linear] <heat_demand(103)>:  +10<alpha(103,0)>[C] +70<alpha(103,3)>[C] == 41.3876470588235;
+  [linear] <heat_demand(104)>:  +10<alpha(104,0)>[C] +70<alpha(104,3)>[C] == 40.6776470588235;
+  [linear] <heat_demand(105)>:  +10<alpha(105,0)>[C] +70<alpha(105,3)>[C] == 40.0376470588235;
+  [linear] <heat_demand(106)>:  +10<alpha(106,0)>[C] +70<alpha(106,3)>[C] == 38.5276470588235;
+  [linear] <heat_demand(107)>:  +10<alpha(107,0)>[C] +70<alpha(107,3)>[C] == 36.7276470588235;
+  [linear] <heat_demand(108)>:  +10<alpha(108,0)>[C] +70<alpha(108,3)>[C] == 35.1276470588235;
+  [linear] <heat_demand(109)>:  +10<alpha(109,0)>[C] +70<alpha(109,3)>[C] == 34.1376470588235;
+  [linear] <heat_demand(110)>:  +10<alpha(110,0)>[C] +70<alpha(110,3)>[C] == 34.0476470588235;
+  [linear] <heat_demand(111)>:  +10<alpha(111,0)>[C] +70<alpha(111,3)>[C] == 34.2876470588235;
+  [linear] <heat_demand(112)>:  +10<alpha(112,0)>[C] +70<alpha(112,3)>[C] == 34.8876470588235;
+  [linear] <heat_demand(113)>:  +10<alpha(113,0)>[C] +70<alpha(113,3)>[C] == 36.2176470588235;
+  [linear] <heat_demand(114)>:  +10<alpha(114,0)>[C] +70<alpha(114,3)>[C] == 36.8576470588235;
+  [linear] <heat_demand(115)>:  +10<alpha(115,0)>[C] +70<alpha(115,3)>[C] == 36.7476470588235;
+  [linear] <heat_demand(116)>:  +10<alpha(116,0)>[C] +70<alpha(116,3)>[C] == 36.2076470588235;
+  [linear] <heat_demand(117)>:  +10<alpha(117,0)>[C] +70<alpha(117,3)>[C] == 35.1676470588235;
+  [linear] <heat_demand(118)>:  +10<alpha(118,0)>[C] +70<alpha(118,3)>[C] == 32.0476470588235;
+  [linear] <heat_demand(119)>:  +10<alpha(119,0)>[C] +70<alpha(119,3)>[C] == 25.7376470588235;
+  [linear] <heat_demand(120)>:  +10<alpha(120,0)>[C] +70<alpha(120,3)>[C] == 21.6476470588235;
+  [linear] <heat_demand(121)>:  +10<alpha(121,0)>[C] +70<alpha(121,3)>[C] == 20.8076470588235;
+  [linear] <heat_demand(122)>:  +10<alpha(122,0)>[C] +70<alpha(122,3)>[C] == 21.5876470588235;
+  [linear] <heat_demand(123)>:  +10<alpha(123,0)>[C] +70<alpha(123,3)>[C] == 22.0976470588235;
+  [linear] <heat_demand(124)>:  +10<alpha(124,0)>[C] +70<alpha(124,3)>[C] == 23.7576470588235;
+  [linear] <heat_demand(125)>:  +10<alpha(125,0)>[C] +70<alpha(125,3)>[C] == 26.9276470588235;
+  [linear] <heat_demand(126)>:  +10<alpha(126,0)>[C] +70<alpha(126,3)>[C] == 35.4276470588235;
+  [linear] <heat_demand(127)>:  +10<alpha(127,0)>[C] +70<alpha(127,3)>[C] == 41.6976470588235;
+  [linear] <heat_demand(128)>:  +10<alpha(128,0)>[C] +70<alpha(128,3)>[C] == 40.9876470588235;
+  [linear] <heat_demand(129)>:  +10<alpha(129,0)>[C] +70<alpha(129,3)>[C] == 40.3276470588235;
+  [linear] <heat_demand(130)>:  +10<alpha(130,0)>[C] +70<alpha(130,3)>[C] == 38.8076470588235;
+  [linear] <heat_demand(131)>:  +10<alpha(131,0)>[C] +70<alpha(131,3)>[C] == 36.9976470588235;
+  [linear] <heat_demand(132)>:  +10<alpha(132,0)>[C] +70<alpha(132,3)>[C] == 35.3876470588235;
+  [linear] <heat_demand(133)>:  +10<alpha(133,0)>[C] +70<alpha(133,3)>[C] == 34.3976470588235;
+  [linear] <heat_demand(134)>:  +10<alpha(134,0)>[C] +70<alpha(134,3)>[C] == 34.2876470588235;
+  [linear] <heat_demand(135)>:  +10<alpha(135,0)>[C] +70<alpha(135,3)>[C] == 34.5376470588235;
+  [linear] <heat_demand(136)>:  +10<alpha(136,0)>[C] +70<alpha(136,3)>[C] == 35.1276470588235;
+  [linear] <heat_demand(137)>:  +10<alpha(137,0)>[C] +70<alpha(137,3)>[C] == 36.4676470588235;
+  [linear] <heat_demand(138)>:  +10<alpha(138,0)>[C] +70<alpha(138,3)>[C] == 37.1276470588235;
+  [linear] <heat_demand(139)>:  +10<alpha(139,0)>[C] +70<alpha(139,3)>[C] == 37.0176470588235;
+  [linear] <heat_demand(140)>:  +10<alpha(140,0)>[C] +70<alpha(140,3)>[C] == 36.4776470588235;
+  [linear] <heat_demand(141)>:  +10<alpha(141,0)>[C] +70<alpha(141,3)>[C] == 35.4276470588235;
+  [linear] <heat_demand(142)>:  +10<alpha(142,0)>[C] +70<alpha(142,3)>[C] == 32.2776470588235;
+  [linear] <heat_demand(143)>:  +10<alpha(143,0)>[C] +70<alpha(143,3)>[C] == 25.9276470588235;
+  [linear] <heat_demand(144)>:  +10<alpha(144,0)>[C] +70<alpha(144,3)>[C] == 21.7876470588235;
+  [linear] <heat_demand(145)>:  +10<alpha(145,0)>[C] +70<alpha(145,3)>[C] == 20.6976470588235;
+  [linear] <heat_demand(146)>:  +10<alpha(146,0)>[C] +70<alpha(146,3)>[C] == 21.4576470588235;
+  [linear] <heat_demand(147)>:  +10<alpha(147,0)>[C] +70<alpha(147,3)>[C] == 21.9676470588235;
+  [linear] <heat_demand(148)>:  +10<alpha(148,0)>[C] +70<alpha(148,3)>[C] == 23.6276470588235;
+  [linear] <heat_demand(149)>:  +10<alpha(149,0)>[C] +70<alpha(149,3)>[C] == 26.7676470588235;
+  [linear] <heat_demand(150)>:  +10<alpha(150,0)>[C] +70<alpha(150,3)>[C] == 35.1876470588235;
+  [linear] <heat_demand(151)>:  +10<alpha(151,0)>[C] +70<alpha(151,3)>[C] == 41.4176470588235;
+  [linear] <heat_demand(152)>:  +10<alpha(152,0)>[C] +70<alpha(152,3)>[C] == 40.7176470588235;
+  [linear] <heat_demand(153)>:  +10<alpha(153,0)>[C] +70<alpha(153,3)>[C] == 40.0776470588235;
+  [linear] <heat_demand(154)>:  +10<alpha(154,0)>[C] +70<alpha(154,3)>[C] == 38.5576470588235;
+  [linear] <heat_demand(155)>:  +10<alpha(155,0)>[C] +70<alpha(155,3)>[C] == 36.7676470588235;
+  [linear] <heat_demand(156)>:  +10<alpha(156,0)>[C] +70<alpha(156,3)>[C] == 35.1676470588235;
+  [linear] <heat_demand(157)>:  +10<alpha(157,0)>[C] +70<alpha(157,3)>[C] == 34.1776470588235;
+  [linear] <heat_demand(158)>:  +10<alpha(158,0)>[C] +70<alpha(158,3)>[C] == 34.0676470588235;
+  [linear] <heat_demand(159)>:  +10<alpha(159,0)>[C] +70<alpha(159,3)>[C] == 34.3176470588235;
+  [linear] <heat_demand(160)>:  +10<alpha(160,0)>[C] +70<alpha(160,3)>[C] == 34.9176470588235;
+  [linear] <heat_demand(161)>:  +10<alpha(161,0)>[C] +70<alpha(161,3)>[C] == 36.2476470588235;
+  [linear] <heat_demand(162)>:  +10<alpha(162,0)>[C] +70<alpha(162,3)>[C] == 36.8876470588235;
+  [linear] <heat_demand(163)>:  +10<alpha(163,0)>[C] +70<alpha(163,3)>[C] == 36.7776470588235;
+  [linear] <heat_demand(164)>:  +10<alpha(164,0)>[C] +70<alpha(164,3)>[C] == 36.2376470588235;
+  [linear] <heat_demand(165)>:  +10<alpha(165,0)>[C] +70<alpha(165,3)>[C] == 35.1976470588235;
+  [linear] <heat_demand(166)>:  +10<alpha(166,0)>[C] +70<alpha(166,3)>[C] == 32.0776470588235;
+  [linear] <heat_demand(167)>:  +10<alpha(167,0)>[C] +70<alpha(167,3)>[C] == 25.7576470588235;
+  [linear] <objconst>: <objvar>[C] -59.2695<alpha(0,0)>[C] +45.095<alpha(0,1)>[C] +225.475<alpha(0,2)>[C] -414.8865<alpha(0,3)>[C] -64.8195<alpha(1,0)>[C] +33.9949999999999<alpha(1,1)>[C] +169.975<alpha(1,2)>[C] -453.7365<alpha(1,3)>[C] -71.1195<alpha(2,0)>[C] +21.395<alpha(2,1)>[C] +106.975<alpha(2,2)>[C] -497.8365<alpha(2,3)>[C] -73.5195<alpha(3,0)>[C] +16.595<alpha(3,1)>[C] +82.9750000000001<alpha(3,2)>[C] -514.6365<alpha(3,3)>[C] -74.7695<alpha(4,0)>[C] +14.095<alpha(4,1)>[C] +70.4750000000001<alpha(4,2)>[C] -523.3865<alpha(4,3)>[C] -75.9695<alpha(5,0)>[C] +11.695<alpha(5,1)>[C] +58.4749999999999<alpha(5,2)>[C] -531.7865<alpha(5,3)>[C] -62.7195<alpha(6,0)>[C] +38.195<alpha(6,1)>[C] +190.975<alpha(6,2)>[C] -439.0365<alpha(6,3)>[C] -21.1695<alpha(7,0)>[C] +121.295<alpha(7,1)>[C] +606.475<alpha(7,2)>[C] -148.1865<alpha(7,3)>[C] +1.93049999999999<alpha(8,0)>[C] +167.495<alpha(8,1)>[C] +837.475<alpha(8,2)>[C] +13.5134999999998<alpha(8,3)>[C] +16.5305<alpha(9,0)>[C] +196.695<alpha(9,1)>[C] +983.475<alpha(9,2)>[C] +115.7135<alpha(9,3)>[C] +5.38049999999998<alpha(10,0)>[C] +174.395<alpha(10,1)>[C] +871.975<alpha(10,2)>[C] +37.6634999999997<alpha(10,3)>[C] -2.01949999999999<alpha(11,0)>[C] +159.595<alpha(11,1)>[C] +797.975<alpha(11,2)>[C] -14.1365000000001<alpha(11,3)>[C] -7.41949999999997<alpha(12,0)>[C] +148.795<alpha(12,1)>[C] +743.975<alpha(12,2)>[C] -51.9365<alpha(12,3)>[C] -15.4695<alpha(13,0)>[C] +132.695<alpha(13,1)>[C] +663.475<alpha(13,2)>[C] -108.2865<alpha(13,3)>[C] -27.7695<alpha(14,0)>[C] +108.095<alpha(14,1)>[C] +540.475<alpha(14,2)>[C] -194.3865<alpha(14,3)>[C] -43.3195<alpha(15,0)>[C] +76.995<alpha(15,1)>[C] +384.975<alpha(15,2)>[C] -303.2365<alpha(15,3)>[C] -45.8195<alpha(16,0)>[C] +71.995<alpha(16,1)>[C] +359.975<alpha(16,2)>[C] -320.7365<alpha(16,3)>[C] -26.5695<alpha(17,0)>[C] +110.495<alpha(17,1)>[C] +552.475<alpha(17,2)>[C] -185.9865<alpha(17,3)>[C] -11.0695<alpha(18,0)>[C] +141.495<alpha(18,1)>[C] +707.475<alpha(18,2)>[C] -77.4865000000002<alpha(18,3)>[C] -5.31950000000001<alpha(19,0)>[C] +152.995<alpha(19,1)>[C] +764.975<alpha(19,2)>[C] -37.2365000000002<alpha(19,3)>[C] -24.8195<alpha(20,0)>[C] +113.995<alpha(20,1)>[C] +569.975<alpha(20,2)>[C] -173.7365<alpha(20,3)>[C] -51.2195<alpha(21,0)>[C] +61.195<alpha(21,1)>[C] +305.975<alpha(21,2)>[C] -358.5365<alpha(21,3)>[C] -57.6195<alpha(22,0)>[C] +48.395<alpha(22,1)>[C] +241.975<alpha(22,2)>[C] -403.3365<alpha(22,3)>[C] -55.6695<alpha(23,0)>[C] +52.295<alpha(23,1)>[C] +261.475<alpha(23,2)>[C] -389.6865<alpha(23,3)>[C] -74.7195<alpha(24,0)>[C] +14.195<alpha(24,1)>[C] +70.9749999999999<alpha(24,2)>[C] -523.0365<alpha(24,3)>[C] -82.5195<alpha(25,0)>[C] -1.40500000000003<alpha(25,1)>[C] -7.02500000000009<alpha(25,2)>[C] -577.6365<alpha(25,3)>[C] -90.0195<alpha(26,0)>[C] -16.405<alpha(26,1)>[C] -82.0250000000001<alpha(26,2)>[C] -630.1365<alpha(26,3)>[C] -92.4195<alpha(27,0)>[C] -21.205<alpha(27,1)>[C] -106.025<alpha(27,2)>[C] -646.9365<alpha(27,3)>[C] -92.6695<alpha(28,0)>[C] -21.705<alpha(28,1)>[C] -108.525<alpha(28,2)>[C] -648.6865<alpha(28,3)>[C] -94.6695<alpha(29,0)>[C] -25.705<alpha(29,1)>[C] -128.525<alpha(29,2)>[C] -662.6865<alpha(29,3)>[C] -92.5695<alpha(30,0)>[C] -21.505<alpha(30,1)>[C] -107.525<alpha(30,2)>[C] -647.9865<alpha(30,3)>[C] -86.2195<alpha(31,0)>[C] -8.80500000000001<alpha(31,1)>[C] -44.0250000000003<alpha(31,2)>[C] -603.5365<alpha(31,3)>[C] -67.1695<alpha(32,0)>[C] +29.295<alpha(32,1)>[C] +146.475<alpha(32,2)>[C] -470.1865<alpha(32,3)>[C] -54.8695<alpha(33,0)>[C] +53.895<alpha(33,1)>[C] +269.475<alpha(33,2)>[C] -384.0865<alpha(33,3)>[C] -16.9195<alpha(34,0)>[C] +129.795<alpha(34,1)>[C] +648.975<alpha(34,2)>[C] -118.4365<alpha(34,3)>[C] -68.0195<alpha(35,0)>[C] +27.595<alpha(35,1)>[C] +137.975<alpha(35,2)>[C] -476.1365<alpha(35,3)>[C] -82.6195<alpha(36,0)>[C] -1.60499999999996<alpha(36,1)>[C] -8.02499999999986<alpha(36,2)>[C] -578.3365<alpha(36,3)>[C] -94.4195<alpha(37,0)>[C] -25.205<alpha(37,1)>[C] -126.025<alpha(37,2)>[C] -660.9365<alpha(37,3)>[C] -96.1195<alpha(38,0)>[C] -28.605<alpha(38,1)>[C] -143.025<alpha(38,2)>[C] -672.8365<alpha(38,3)>[C] -94.6195<alpha(39,0)>[C] -25.605<alpha(39,1)>[C] -128.025<alpha(39,2)>[C] -662.3365<alpha(39,3)>[C] -95.2195<alpha(40,0)>[C] -26.805<alpha(40,1)>[C] -134.025<alpha(40,2)>[C] -666.5365<alpha(40,3)>[C] -45.3695<alpha(41,0)>[C] +72.895<alpha(41,1)>[C] +364.475<alpha(41,2)>[C] -317.5865<alpha(41,3)>[C] -35.2695<alpha(42,0)>[C] +93.095<alpha(42,1)>[C] +465.475<alpha(42,2)>[C] -246.8865<alpha(42,3)>[C] -11.7195<alpha(43,0)>[C] +140.195<alpha(43,1)>[C] +700.975<alpha(43,2)>[C] -82.0365000000002<alpha(43,3)>[C] -17.8695<alpha(44,0)>[C] +127.895<alpha(44,1)>[C] +639.475<alpha(44,2)>[C] -125.0865<alpha(44,3)>[C] -37.7695<alpha(45,0)>[C] +88.095<alpha(45,1)>[C] +440.475<alpha(45,2)>[C] -264.3865<alpha(45,3)>[C] -70.9695<alpha(46,0)>[C] +21.695<alpha(46,1)>[C] +108.475<alpha(46,2)>[C] -496.7865<alpha(46,3)>[C] -64.7695<alpha(47,0)>[C] +34.095<alpha(47,1)>[C] +170.475<alpha(47,2)>[C] -453.3865<alpha(47,3)>[C] -77.7195<alpha(48,0)>[C] +8.19499999999999<alpha(48,1)>[C] +40.9749999999999<alpha(48,2)>[C] -544.0365<alpha(48,3)>[C] -83.6195<alpha(49,0)>[C] -3.60500000000002<alpha(49,1)>[C] -18.0250000000001<alpha(49,2)>[C] -585.3365<alpha(49,3)>[C] -85.3195<alpha(50,0)>[C] -7.00500000000005<alpha(50,1)>[C] -35.0250000000003<alpha(50,2)>[C] -597.2365<alpha(50,3)>[C] -85.3195<alpha(51,0)>[C] -7.00500000000005<alpha(51,1)>[C] -35.0250000000003<alpha(51,2)>[C] -597.2365<alpha(51,3)>[C] -91.6695<alpha(52,0)>[C] -19.705<alpha(52,1)>[C] -98.5250000000001<alpha(52,2)>[C] -641.6865<alpha(52,3)>[C] -91.6695<alpha(53,0)>[C] -19.705<alpha(53,1)>[C] -98.5250000000001<alpha(53,2)>[C] -641.6865<alpha(53,3)>[C] -87.5195<alpha(54,0)>[C] -11.405<alpha(54,1)>[C] -57.0250000000001<alpha(54,2)>[C] -612.6365<alpha(54,3)>[C] -86.2195<alpha(55,0)>[C] -8.80500000000001<alpha(55,1)>[C] -44.0250000000003<alpha(55,2)>[C] -603.5365<alpha(55,3)>[C] -82.8195<alpha(56,0)>[C] -2.00500000000005<alpha(56,1)>[C] -10.0250000000003<alpha(56,2)>[C] -579.7365<alpha(56,3)>[C] -77.1695<alpha(57,0)>[C] +9.29500000000002<alpha(57,1)>[C] +46.4749999999999<alpha(57,2)>[C] -540.1865<alpha(57,3)>[C] -73.7695<alpha(58,0)>[C] +16.095<alpha(58,1)>[C] +80.4749999999999<alpha(58,2)>[C] -516.3865<alpha(58,3)>[C] -84.4695<alpha(59,0)>[C] -5.30500000000001<alpha(59,1)>[C] -26.5250000000001<alpha(59,2)>[C] -591.2865<alpha(59,3)>[C] -87.4195<alpha(60,0)>[C] -11.205<alpha(60,1)>[C] -56.0250000000001<alpha(60,2)>[C] -611.9365<alpha(60,3)>[C] -87.0195<alpha(61,0)>[C] -10.405<alpha(61,1)>[C] -52.0250000000001<alpha(61,2)>[C] -609.1365<alpha(61,3)>[C] -97.7195<alpha(62,0)>[C] -31.805<alpha(62,1)>[C] -159.025<alpha(62,2)>[C] -684.0365<alpha(62,3)>[C] -100.0195<alpha(63,0)>[C] -36.405<alpha(63,1)>[C] -182.025<alpha(63,2)>[C] -700.1365<alpha(63,3)>[C] -96.4695<alpha(64,0)>[C] -29.305<alpha(64,1)>[C] -146.525<alpha(64,2)>[C] -675.2865<alpha(64,3)>[C] -79.8695<alpha(65,0)>[C] +3.89499999999998<alpha(65,1)>[C] +19.4749999999999<alpha(65,2)>[C] -559.0865<alpha(65,3)>[C] -43.9695<alpha(66,0)>[C] +75.695<alpha(66,1)>[C] +378.475<alpha(66,2)>[C] -307.7865<alpha(66,3)>[C] -14.3195<alpha(67,0)>[C] +134.995<alpha(67,1)>[C] +674.975<alpha(67,2)>[C] -100.2365<alpha(67,3)>[C] -15.3695<alpha(68,0)>[C] +132.895<alpha(68,1)>[C] +664.475<alpha(68,2)>[C] -107.5865<alpha(68,3)>[C] -22.7195<alpha(69,0)>[C] +118.195<alpha(69,1)>[C] +590.975<alpha(69,2)>[C] -159.0365<alpha(69,3)>[C] -50.4195<alpha(70,0)>[C] +62.795<alpha(70,1)>[C] +313.975<alpha(70,2)>[C] -352.9365<alpha(70,3)>[C] -34.4695<alpha(71,0)>[C] +94.695<alpha(71,1)>[C] +473.475<alpha(71,2)>[C] -241.2865<alpha(71,3)>[C] -52.2195<alpha(72,0)>[C] +59.195<alpha(72,1)>[C] +295.975<alpha(72,2)>[C] -365.5365<alpha(72,3)>[C] -79.2195<alpha(73,0)>[C] +5.19499999999999<alpha(73,1)>[C] +25.9750000000001<alpha(73,2)>[C] -554.5365<alpha(73,3)>[C] -87.6195<alpha(74,0)>[C] -11.605<alpha(74,1)>[C] -58.0249999999999<alpha(74,2)>[C] -613.3365<alpha(74,3)>[C] -87.7195<alpha(75,0)>[C] -11.805<alpha(75,1)>[C] -59.0250000000001<alpha(75,2)>[C] -614.0365<alpha(75,3)>[C] -90.8695<alpha(76,0)>[C] -18.105<alpha(76,1)>[C] -90.5250000000003<alpha(76,2)>[C] -636.0865<alpha(76,3)>[C] -92.4195<alpha(77,0)>[C] -21.205<alpha(77,1)>[C] -106.025<alpha(77,2)>[C] -646.9365<alpha(77,3)>[C] -72.3695<alpha(78,0)>[C] +18.895<alpha(78,1)>[C] +94.4749999999999<alpha(78,2)>[C] -506.5865<alpha(78,3)>[C] -22.6195<alpha(79,0)>[C] +118.395<alpha(79,1)>[C] +591.975<alpha(79,2)>[C] -158.3365<alpha(79,3)>[C] +11.6805000000001<alpha(80,0)>[C] +186.995<alpha(80,1)>[C] +934.975<alpha(80,2)>[C] +81.7635<alpha(80,3)>[C] +5.23050000000006<alpha(81,0)>[C] +174.095<alpha(81,1)>[C] +870.475<alpha(81,2)>[C] +36.6134999999999<alpha(81,3)>[C] -19.1195<alpha(82,0)>[C] +125.395<alpha(82,1)>[C] +626.975<alpha(82,2)>[C] -133.8365<alpha(82,3)>[C] -72.5695<alpha(83,0)>[C] +18.495<alpha(83,1)>[C] +92.4749999999999<alpha(83,2)>[C] -507.9865<alpha(83,3)>[C] -77.8695<alpha(84,0)>[C] +7.89499999999998<alpha(84,1)>[C] +39.4749999999999<alpha(84,2)>[C] -545.0865<alpha(84,3)>[C] -85.7195<alpha(85,0)>[C] -7.80500000000001<alpha(85,1)>[C] -39.0250000000001<alpha(85,2)>[C] -600.0365<alpha(85,3)>[C] -77.8195<alpha(86,0)>[C] +7.99499999999995<alpha(86,1)>[C] +39.9749999999997<alpha(86,2)>[C] -544.7365<alpha(86,3)>[C] -83.3195<alpha(87,0)>[C] -3.005<alpha(87,1)>[C] -15.0249999999999<alpha(87,2)>[C] -583.2365<alpha(87,3)>[C] -62.7195<alpha(88,0)>[C] +38.195<alpha(88,1)>[C] +190.975<alpha(88,2)>[C] -439.0365<alpha(88,3)>[C] -50.7195<alpha(89,0)>[C] +62.195<alpha(89,1)>[C] +310.975<alpha(89,2)>[C] -355.0365<alpha(89,3)>[C] -6.51949999999999<alpha(90,0)>[C] +150.595<alpha(90,1)>[C] +752.975<alpha(90,2)>[C] -45.6365000000001<alpha(90,3)>[C] +11.8805<alpha(91,0)>[C] +187.395<alpha(91,1)>[C] +936.975<alpha(91,2)>[C] +83.1634999999999<alpha(91,3)>[C] -0.719499999999982<alpha(92,0)>[C] +162.195<alpha(92,1)>[C] +810.975<alpha(92,2)>[C] -5.03650000000016<alpha(92,3)>[C] -19.6695<alpha(93,0)>[C] +124.295<alpha(93,1)>[C] +621.475<alpha(93,2)>[C] -137.6865<alpha(93,3)>[C] -57.2695<alpha(94,0)>[C] +49.095<alpha(94,1)>[C] +245.475<alpha(94,2)>[C] -400.8865<alpha(94,3)>[C] -60.7195<alpha(95,0)>[C] +42.195<alpha(95,1)>[C] +210.975<alpha(95,2)>[C] -425.0365<alpha(95,3)>[C] -70.7195<alpha(96,0)>[C] +22.195<alpha(96,1)>[C] +110.975<alpha(96,2)>[C] -495.0365<alpha(96,3)>[C] -87.2195<alpha(97,0)>[C] -10.805<alpha(97,1)>[C] -54.0250000000001<alpha(97,2)>[C] -610.5365<alpha(97,3)>[C] -87.7195<alpha(98,0)>[C] -11.805<alpha(98,1)>[C] -59.0250000000001<alpha(98,2)>[C] -614.0365<alpha(98,3)>[C] -88.5195<alpha(99,0)>[C] -13.405<alpha(99,1)>[C] -67.0249999999999<alpha(99,2)>[C] -619.6365<alpha(99,3)>[C] -93.3195<alpha(100,0)>[C] -23.005<alpha(100,1)>[C] -115.025<alpha(100,2)>[C] -653.2365<alpha(100,3)>[C] -88.8695<alpha(101,0)>[C] -14.105<alpha(101,1)>[C] -70.5249999999999<alpha(101,2)>[C] -622.0865<alpha(101,3)>[C] -75.6695<alpha(102,0)>[C] +12.295<alpha(102,1)>[C] +61.4749999999997<alpha(102,2)>[C] -529.6865<alpha(102,3)>[C] -29.0195<alpha(103,0)>[C] +105.595<alpha(103,1)>[C] +527.975<alpha(103,2)>[C] -203.1365<alpha(103,3)>[C] -7.51949999999999<alpha(104,0)>[C] +148.595<alpha(104,1)>[C] +742.975<alpha(104,2)>[C] -52.6365000000003<alpha(104,3)>[C] -13.3194999999999<alpha(105,0)>[C] +136.995<alpha(105,1)>[C] +684.975<alpha(105,2)>[C] -93.2365<alpha(105,3)>[C] -23.1195<alpha(106,0)>[C] +117.395<alpha(106,1)>[C] +586.975<alpha(106,2)>[C] -161.8365<alpha(106,3)>[C] -62.7195<alpha(107,0)>[C] +38.195<alpha(107,1)>[C] +190.975<alpha(107,2)>[C] -439.0365<alpha(107,3)>[C] -77.3195<alpha(108,0)>[C] +8.99499999999995<alpha(108,1)>[C] +44.9749999999999<alpha(108,2)>[C] -541.2365<alpha(108,3)>[C] -76.3195<alpha(109,0)>[C] +10.995<alpha(109,1)>[C] +54.9749999999999<alpha(109,2)>[C] -534.2365<alpha(109,3)>[C] -77.7195<alpha(110,0)>[C] +8.19499999999999<alpha(110,1)>[C] +40.9749999999999<alpha(110,2)>[C] -544.0365<alpha(110,3)>[C] -83.1695<alpha(111,0)>[C] -2.70500000000004<alpha(111,1)>[C] -13.5250000000003<alpha(111,2)>[C] -582.1865<alpha(111,3)>[C] -65.4695<alpha(112,0)>[C] +32.695<alpha(112,1)>[C] +163.475<alpha(112,2)>[C] -458.2865<alpha(112,3)>[C] -47.0195<alpha(113,0)>[C] +69.595<alpha(113,1)>[C] +347.975<alpha(113,2)>[C] -329.1365<alpha(113,3)>[C] +3.48050000000001<alpha(114,0)>[C] +170.595<alpha(114,1)>[C] +852.975<alpha(114,2)>[C] +24.3634999999999<alpha(114,3)>[C] +42.1805<alpha(115,0)>[C] +247.995<alpha(115,1)>[C] +1239.975<alpha(115,2)>[C] +295.2635<alpha(115,3)>[C] +1.98050000000001<alpha(116,0)>[C] +167.595<alpha(116,1)>[C] +837.975<alpha(116,2)>[C] +13.8634999999997<alpha(116,3)>[C] -16.7695<alpha(117,0)>[C] +130.095<alpha(117,1)>[C] +650.475<alpha(117,2)>[C] -117.3865<alpha(117,3)>[C] -34.8695<alpha(118,0)>[C] +93.895<alpha(118,1)>[C] +469.475<alpha(118,2)>[C] -244.0865<alpha(118,3)>[C] -38.7195<alpha(119,0)>[C] +86.195<alpha(119,1)>[C] +430.975<alpha(119,2)>[C] -271.0365<alpha(119,3)>[C] -65.6695<alpha(120,0)>[C] +32.295<alpha(120,1)>[C] +161.475<alpha(120,2)>[C] -459.6865<alpha(120,3)>[C] -67.8195<alpha(121,0)>[C] +27.9949999999999<alpha(121,1)>[C] +139.975<alpha(121,2)>[C] -474.7365<alpha(121,3)>[C] -75.6195<alpha(122,0)>[C] +12.395<alpha(122,1)>[C] +61.9749999999999<alpha(122,2)>[C] -529.3365<alpha(122,3)>[C] -79.8195<alpha(123,0)>[C] +3.99499999999995<alpha(123,1)>[C] +19.9749999999999<alpha(123,2)>[C] -558.7365<alpha(123,3)>[C] -82.7695<alpha(124,0)>[C] -1.90499999999997<alpha(124,1)>[C] -9.52500000000009<alpha(124,2)>[C] -579.3865<alpha(124,3)>[C] -79.7695<alpha(125,0)>[C] +4.09500000000003<alpha(125,1)>[C] +20.4750000000001<alpha(125,2)>[C] -558.3865<alpha(125,3)>[C] -65.3195<alpha(126,0)>[C] +32.9949999999999<alpha(126,1)>[C] +164.975<alpha(126,2)>[C] -457.2365<alpha(126,3)>[C] -18.9695<alpha(127,0)>[C] +125.695<alpha(127,1)>[C] +628.475<alpha(127,2)>[C] -132.7865<alpha(127,3)>[C] +26.4805000000001<alpha(128,0)>[C] +216.595<alpha(128,1)>[C] +1082.975<alpha(128,2)>[C] +185.3635<alpha(128,3)>[C] -1.76949999999999<alpha(129,0)>[C] +160.095<alpha(129,1)>[C] +800.475<alpha(129,2)>[C] -12.3865000000003<alpha(129,3)>[C] -22.9695<alpha(130,0)>[C] +117.695<alpha(130,1)>[C] +588.475<alpha(130,2)>[C] -160.7865<alpha(130,3)>[C] -49.8695<alpha(131,0)>[C] +63.895<alpha(131,1)>[C] +319.475<alpha(131,2)>[C] -349.0865<alpha(131,3)>[C] -68.7695<alpha(132,0)>[C] +26.095<alpha(132,1)>[C] +130.475<alpha(132,2)>[C] -481.3865<alpha(132,3)>[C] -74.5695<alpha(133,0)>[C] +14.495<alpha(133,1)>[C] +72.4750000000001<alpha(133,2)>[C] -521.9865<alpha(133,3)>[C] -74.8195<alpha(134,0)>[C] +13.9949999999999<alpha(134,1)>[C] +69.9749999999999<alpha(134,2)>[C] -523.7365<alpha(134,3)>[C] -72.4195<alpha(135,0)>[C] +18.795<alpha(135,1)>[C] +93.9749999999999<alpha(135,2)>[C] -506.9365<alpha(135,3)>[C] -69.6195<alpha(136,0)>[C] +24.395<alpha(136,1)>[C] +121.975<alpha(136,2)>[C] -487.3365<alpha(136,3)>[C] -53.1195<alpha(137,0)>[C] +57.395<alpha(137,1)>[C] +286.975<alpha(137,2)>[C] -371.8365<alpha(137,3)>[C] -6.91950000000003<alpha(138,0)>[C] +149.795<alpha(138,1)>[C] +748.975<alpha(138,2)>[C] -48.4365000000003<alpha(138,3)>[C] -0.319500000000005<alpha(139,0)>[C] +162.995<alpha(139,1)>[C] +814.975<alpha(139,2)>[C] -2.23650000000021<alpha(139,3)>[C] -13.6195<alpha(140,0)>[C] +136.395<alpha(140,1)>[C] +681.975<alpha(140,2)>[C] -95.3365000000001<alpha(140,3)>[C] -39.2695<alpha(141,0)>[C] +85.095<alpha(141,1)>[C] +425.475<alpha(141,2)>[C] -274.8865<alpha(141,3)>[C] -64.8195<alpha(142,0)>[C] +33.9949999999999<alpha(142,1)>[C] +169.975<alpha(142,2)>[C] -453.7365<alpha(142,3)>[C] -65.7695<alpha(143,0)>[C] +32.095<alpha(143,1)>[C] +160.475<alpha(143,2)>[C] -460.3865<alpha(143,3)>[C] -85.7195<alpha(144,0)>[C] -7.80500000000001<alpha(144,1)>[C] -39.0250000000001<alpha(144,2)>[C] -600.0365<alpha(144,3)>[C] -85.2195<alpha(145,0)>[C] -6.80500000000001<alpha(145,1)>[C] -34.0250000000001<alpha(145,2)>[C] -596.5365<alpha(145,3)>[C] -82.8195<alpha(146,0)>[C] -2.00500000000005<alpha(146,1)>[C] -10.0250000000003<alpha(146,2)>[C] -579.7365<alpha(146,3)>[C] -85.2195<alpha(147,0)>[C] -6.80500000000001<alpha(147,1)>[C] -34.0250000000001<alpha(147,2)>[C] -596.5365<alpha(147,3)>[C] -79.7195<alpha(148,0)>[C] +4.19499999999999<alpha(148,1)>[C] +20.9749999999999<alpha(148,2)>[C] -558.0365<alpha(148,3)>[C] -90.7195<alpha(149,0)>[C] -17.805<alpha(149,1)>[C] -89.0250000000001<alpha(149,2)>[C] -635.0365<alpha(149,3)>[C] -98.2195<alpha(150,0)>[C] -32.805<alpha(150,1)>[C] -164.025<alpha(150,2)>[C] -687.5365<alpha(150,3)>[C] -60.4695<alpha(151,0)>[C] +42.695<alpha(151,1)>[C] +213.475<alpha(151,2)>[C] -423.2865<alpha(151,3)>[C] -24.7695<alpha(152,0)>[C] +114.095<alpha(152,1)>[C] +570.475<alpha(152,2)>[C] -173.3865<alpha(152,3)>[C] +9.73050000000001<alpha(153,0)>[C] +183.095<alpha(153,1)>[C] +915.475<alpha(153,2)>[C] +68.1134999999999<alpha(153,3)>[C] +13.7805<alpha(154,0)>[C] +191.195<alpha(154,1)>[C] +955.975<alpha(154,2)>[C] +96.4634999999998<alpha(154,3)>[C] -59.4195<alpha(155,0)>[C] +44.795<alpha(155,1)>[C] +223.975<alpha(155,2)>[C] -415.9365<alpha(155,3)>[C] -78.2695<alpha(156,0)>[C] +7.09499999999997<alpha(156,1)>[C] +35.4749999999999<alpha(156,2)>[C] -547.8865<alpha(156,3)>[C] -82.7195<alpha(157,0)>[C] -1.80500000000001<alpha(157,1)>[C] -9.02500000000009<alpha(157,2)>[C] -579.0365<alpha(157,3)>[C] -87.3195<alpha(158,0)>[C] -11.0050000000001<alpha(158,1)>[C] -55.0250000000001<alpha(158,2)>[C] -611.2365<alpha(158,3)>[C] -82.4695<alpha(159,0)>[C] -1.30500000000001<alpha(159,1)>[C] -6.52500000000032<alpha(159,2)>[C] -577.2865<alpha(159,3)>[C] -49.3195<alpha(160,0)>[C] +64.995<alpha(160,1)>[C] +324.975<alpha(160,2)>[C] -345.2365<alpha(160,3)>[C] -35.4695<alpha(161,0)>[C] +92.695<alpha(161,1)>[C] +463.475<alpha(161,2)>[C] -248.2865<alpha(161,3)>[C] -4.36949999999996<alpha(162,0)>[C] +154.895<alpha(162,1)>[C] +774.475<alpha(162,2)>[C] -30.5865000000001<alpha(162,3)>[C] -3.91949999999997<alpha(163,0)>[C] +155.795<alpha(163,1)>[C] +778.975<alpha(163,2)>[C] -27.4365000000003<alpha(163,3)>[C] -17.8695<alpha(164,0)>[C] +127.895<alpha(164,1)>[C] +639.475<alpha(164,2)>[C] -125.0865<alpha(164,3)>[C] -26.7195<alpha(165,0)>[C] +110.195<alpha(165,1)>[C] +550.975<alpha(165,2)>[C] -187.0365<alpha(165,3)>[C] -51.7195<alpha(166,0)>[C] +60.195<alpha(166,1)>[C] +300.975<alpha(166,2)>[C] -362.0365<alpha(166,3)>[C] -56.6695<alpha(167,0)>[C] +50.295<alpha(167,1)>[C] +251.475<alpha(167,2)>[C] -396.6865<alpha(167,3)>[C] >= 0;
+END

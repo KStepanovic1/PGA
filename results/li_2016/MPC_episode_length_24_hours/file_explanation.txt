@@ -1,0 +1,1 @@
+without_initial conditions stands for the results that does not use the same initial conditions as DNN-Opt planners. These files are not used in comparison.

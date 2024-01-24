@@ -1,0 +1,10 @@
+\ Model MILP_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+ 
+Subject To
+ inlet-outlet(edge_id_2)_temp_constraint[0]:
+   temperature_supply_edges[0,1,0] = 74.97040839617185
+Bounds
+ temperature_supply_edges[0,1,0] >= 75
+End
