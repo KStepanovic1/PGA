@@ -1,1 +1,1 @@
-Code for the paper "A Penalty-Based Guardrail Algorithm for Non-Decreasing Optimization with Inequality Constraints".
+Code for the paper "A Penalty-Based Guardrail Algorithm for Non-Decreasing Optimization with Inequality Constraints". The PGA has been implemented on three application domains: an N-dimensional optimization problem, a simplified model of a district heating system, and a model derived from learned deep neural networks.
